@@ -1,0 +1,3912 @@
+{
+  "count": 300,
+  "counting_rules": "100个不同属级条目；300张知识卡=100张年代卡+100张规格卡+100张产地卡，是同一批恐龙资料按学习维度组织，不是额外300种恐龙，也不将Markdown、JSON及索引重复相加。",
+  "cards": [
+    {
+      "id": "FACT-001",
+      "dinosaur_id": "DINO-001",
+      "genus": "Tyrannosaurus",
+      "dimension": "年代与地层",
+      "title": "霸王龙（暴龙属）｜年代定位",
+      "content": "霸王龙（暴龙属）归入晚白垩世。来源目录约68—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-002",
+      "dinosaur_id": "DINO-002",
+      "genus": "Spinosaurus",
+      "dimension": "年代与地层",
+      "title": "棘龙｜年代定位",
+      "content": "棘龙归入晚白垩世。来源目录约99—94百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-003",
+      "dinosaur_id": "DINO-003",
+      "genus": "Triceratops",
+      "dimension": "年代与地层",
+      "title": "三角龙｜年代定位",
+      "content": "三角龙归入晚白垩世。来源目录约68—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-004",
+      "dinosaur_id": "DINO-004",
+      "genus": "Stegosaurus",
+      "dimension": "年代与地层",
+      "title": "剑龙｜年代定位",
+      "content": "剑龙归入晚侏罗世。来源目录约152—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-005",
+      "dinosaur_id": "DINO-005",
+      "genus": "Diplodocus",
+      "dimension": "年代与地层",
+      "title": "梁龙｜年代定位",
+      "content": "梁龙归入晚侏罗世。来源目录约152—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-006",
+      "dinosaur_id": "DINO-006",
+      "genus": "Coelophysis",
+      "dimension": "年代与地层",
+      "title": "腔骨龙｜年代定位",
+      "content": "腔骨龙归入晚三叠世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-007",
+      "dinosaur_id": "DINO-007",
+      "genus": "Iguanodon",
+      "dimension": "年代与地层",
+      "title": "禽龙｜年代定位",
+      "content": "禽龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-008",
+      "dinosaur_id": "DINO-008",
+      "genus": "Parasaurolophus",
+      "dimension": "年代与地层",
+      "title": "副栉龙｜年代定位",
+      "content": "副栉龙归入晚白垩世。来源目录约77—73百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-009",
+      "dinosaur_id": "DINO-009",
+      "genus": "Pachycephalosaurus",
+      "dimension": "年代与地层",
+      "title": "肿头龙｜年代定位",
+      "content": "肿头龙归入晚白垩世。来源目录约69—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-010",
+      "dinosaur_id": "DINO-010",
+      "genus": "Deinonychus",
+      "dimension": "年代与地层",
+      "title": "恐爪龙｜年代定位",
+      "content": "恐爪龙归入早白垩世。来源目录约115—108百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-011",
+      "dinosaur_id": "DINO-011",
+      "genus": "Herrerasaurus",
+      "dimension": "年代与地层",
+      "title": "埃雷拉龙｜年代定位",
+      "content": "埃雷拉龙归入晚三叠世。来源目录约228—228百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-012",
+      "dinosaur_id": "DINO-012",
+      "genus": "Eoraptor",
+      "dimension": "年代与地层",
+      "title": "始盗龙｜年代定位",
+      "content": "始盗龙归入晚三叠世。来源目录约228—228百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-013",
+      "dinosaur_id": "DINO-013",
+      "genus": "Plateosaurus",
+      "dimension": "年代与地层",
+      "title": "板龙｜年代定位",
+      "content": "板龙归入晚三叠世。来源目录约210—210百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-014",
+      "dinosaur_id": "DINO-014",
+      "genus": "Riojasaurus",
+      "dimension": "年代与地层",
+      "title": "里奥哈龙｜年代定位",
+      "content": "里奥哈龙归入晚三叠世。来源目录约221—210百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-015",
+      "dinosaur_id": "DINO-015",
+      "genus": "Massospondylus",
+      "dimension": "年代与地层",
+      "title": "大椎龙｜年代定位",
+      "content": "大椎龙归入早侏罗世（约190百万年前的卵化石证据）。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+        "https://www.nhm.ac.uk/discover/news/2020/april/most-detailed-look-inside-worlds-oldest-dinosaur-eggs.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-016",
+      "dinosaur_id": "DINO-016",
+      "genus": "Dilophosaurus",
+      "dimension": "年代与地层",
+      "title": "双脊龙｜年代定位",
+      "content": "双脊龙归入早侏罗世。来源目录约184—184百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-017",
+      "dinosaur_id": "DINO-017",
+      "genus": "Cryolophosaurus",
+      "dimension": "年代与地层",
+      "title": "冰脊龙｜年代定位",
+      "content": "冰脊龙归入早侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+        "https://www.fieldmuseum.org/collection-item-iconic/cryolophosaurus"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-018",
+      "dinosaur_id": "DINO-018",
+      "genus": "Scutellosaurus",
+      "dimension": "年代与地层",
+      "title": "小盾龙｜年代定位",
+      "content": "小盾龙归入早侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-019",
+      "dinosaur_id": "DINO-019",
+      "genus": "Shunosaurus",
+      "dimension": "年代与地层",
+      "title": "蜀龙｜年代定位",
+      "content": "蜀龙归入中侏罗世。来源目录约170—160百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-020",
+      "dinosaur_id": "DINO-020",
+      "genus": "Apatosaurus",
+      "dimension": "年代与地层",
+      "title": "迷惑龙｜年代定位",
+      "content": "迷惑龙归入晚侏罗世。来源目录约152—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-021",
+      "dinosaur_id": "DINO-021",
+      "genus": "Camarasaurus",
+      "dimension": "年代与地层",
+      "title": "圆顶龙｜年代定位",
+      "content": "圆顶龙归入晚侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-022",
+      "dinosaur_id": "DINO-022",
+      "genus": "Mamenchisaurus",
+      "dimension": "年代与地层",
+      "title": "马门溪龙｜年代定位",
+      "content": "马门溪龙归入晚侏罗世。来源目录约155—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-023",
+      "dinosaur_id": "DINO-023",
+      "genus": "Omeisaurus",
+      "dimension": "年代与地层",
+      "title": "峨眉龙｜年代定位",
+      "content": "峨眉龙归入中侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-024",
+      "dinosaur_id": "DINO-024",
+      "genus": "Cetiosaurus",
+      "dimension": "年代与地层",
+      "title": "鲸龙｜年代定位",
+      "content": "鲸龙归入中侏罗世。来源目录约170—160百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-025",
+      "dinosaur_id": "DINO-025",
+      "genus": "Argentinosaurus",
+      "dimension": "年代与地层",
+      "title": "阿根廷龙｜年代定位",
+      "content": "阿根廷龙归入晚白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-026",
+      "dinosaur_id": "DINO-026",
+      "genus": "Alamosaurus",
+      "dimension": "年代与地层",
+      "title": "阿拉摩龙｜年代定位",
+      "content": "阿拉摩龙归入晚白垩世。来源目录约70—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-027",
+      "dinosaur_id": "DINO-027",
+      "genus": "Saltasaurus",
+      "dimension": "年代与地层",
+      "title": "萨尔塔龙｜年代定位",
+      "content": "萨尔塔龙归入晚白垩世。来源目录约70—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-028",
+      "dinosaur_id": "DINO-028",
+      "genus": "Dicraeosaurus",
+      "dimension": "年代与地层",
+      "title": "叉龙｜年代定位",
+      "content": "叉龙归入晚侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-029",
+      "dinosaur_id": "DINO-029",
+      "genus": "Giraffatitan",
+      "dimension": "年代与地层",
+      "title": "长颈巨龙｜年代定位",
+      "content": "长颈巨龙归入晚侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-030",
+      "dinosaur_id": "DINO-030",
+      "genus": "Nigersaurus",
+      "dimension": "年代与地层",
+      "title": "尼日尔龙｜年代定位",
+      "content": "尼日尔龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-031",
+      "dinosaur_id": "DINO-031",
+      "genus": "Albertosaurus",
+      "dimension": "年代与地层",
+      "title": "阿尔伯塔龙｜年代定位",
+      "content": "阿尔伯塔龙归入晚白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-032",
+      "dinosaur_id": "DINO-032",
+      "genus": "Gorgosaurus",
+      "dimension": "年代与地层",
+      "title": "蛇发女怪龙｜年代定位",
+      "content": "蛇发女怪龙归入晚白垩世。来源目录约80—73百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-033",
+      "dinosaur_id": "DINO-033",
+      "genus": "Tarbosaurus",
+      "dimension": "年代与地层",
+      "title": "特暴龙｜年代定位",
+      "content": "特暴龙归入晚白垩世。来源目录约74—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-034",
+      "dinosaur_id": "DINO-034",
+      "genus": "Daspletosaurus",
+      "dimension": "年代与地层",
+      "title": "惧龙｜年代定位",
+      "content": "惧龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-035",
+      "dinosaur_id": "DINO-035",
+      "genus": "Guanlong",
+      "dimension": "年代与地层",
+      "title": "冠龙｜年代定位",
+      "content": "冠龙归入晚侏罗世。来源目录约159—154百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-036",
+      "dinosaur_id": "DINO-036",
+      "genus": "Yutyrannus",
+      "dimension": "年代与地层",
+      "title": "羽王龙｜年代定位",
+      "content": "羽王龙归入早白垩世。来源目录约125—125百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-037",
+      "dinosaur_id": "DINO-037",
+      "genus": "Baryonyx",
+      "dimension": "年代与地层",
+      "title": "重爪龙｜年代定位",
+      "content": "重爪龙归入早白垩世。来源目录约125—125百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-038",
+      "dinosaur_id": "DINO-038",
+      "genus": "Suchomimus",
+      "dimension": "年代与地层",
+      "title": "似鳄龙｜年代定位",
+      "content": "似鳄龙归入早白垩世。来源目录约121—112百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-039",
+      "dinosaur_id": "DINO-039",
+      "genus": "Irritator",
+      "dimension": "年代与地层",
+      "title": "激龙｜年代定位",
+      "content": "激龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/irritator.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-040",
+      "dinosaur_id": "DINO-040",
+      "genus": "Carcharodontosaurus",
+      "dimension": "年代与地层",
+      "title": "鲨齿龙｜年代定位",
+      "content": "鲨齿龙归入晚白垩世。来源目录约99—94百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-041",
+      "dinosaur_id": "DINO-041",
+      "genus": "Giganotosaurus",
+      "dimension": "年代与地层",
+      "title": "南方巨兽龙｜年代定位",
+      "content": "南方巨兽龙归入晚白垩世。来源目录约100—95百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-042",
+      "dinosaur_id": "DINO-042",
+      "genus": "Acrocanthosaurus",
+      "dimension": "年代与地层",
+      "title": "高棘龙｜年代定位",
+      "content": "高棘龙归入早白垩世。来源目录约115—105百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-043",
+      "dinosaur_id": "DINO-043",
+      "genus": "Mapusaurus",
+      "dimension": "年代与地层",
+      "title": "马普龙｜年代定位",
+      "content": "马普龙归入晚白垩世。来源目录约99—94百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-044",
+      "dinosaur_id": "DINO-044",
+      "genus": "Neovenator",
+      "dimension": "年代与地层",
+      "title": "新猎龙｜年代定位",
+      "content": "新猎龙归入早白垩世。来源目录约127—121百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-045",
+      "dinosaur_id": "DINO-045",
+      "genus": "Yangchuanosaurus",
+      "dimension": "年代与地层",
+      "title": "永川龙｜年代定位",
+      "content": "永川龙归入晚侏罗世。来源目录约160—144百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-046",
+      "dinosaur_id": "DINO-046",
+      "genus": "Ceratosaurus",
+      "dimension": "年代与地层",
+      "title": "角鼻龙｜年代定位",
+      "content": "角鼻龙归入晚侏罗世。来源目录约152—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-047",
+      "dinosaur_id": "DINO-047",
+      "genus": "Abelisaurus",
+      "dimension": "年代与地层",
+      "title": "阿贝力龙｜年代定位",
+      "content": "阿贝力龙归入晚白垩世。来源目录约74—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-048",
+      "dinosaur_id": "DINO-048",
+      "genus": "Majungasaurus",
+      "dimension": "年代与地层",
+      "title": "玛君龙｜年代定位",
+      "content": "玛君龙归入晚白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-049",
+      "dinosaur_id": "DINO-049",
+      "genus": "Utahraptor",
+      "dimension": "年代与地层",
+      "title": "犹他盗龙｜年代定位",
+      "content": "犹他盗龙归入早白垩世。来源目录约139—135百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-050",
+      "dinosaur_id": "DINO-050",
+      "genus": "Sinosauropteryx",
+      "dimension": "年代与地层",
+      "title": "中华龙鸟｜年代定位",
+      "content": "中华龙鸟归入早白垩世。来源目录约125—122百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-051",
+      "dinosaur_id": "DINO-051",
+      "genus": "Caudipteryx",
+      "dimension": "年代与地层",
+      "title": "尾羽龙｜年代定位",
+      "content": "尾羽龙归入早白垩世。来源目录约125—122百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-052",
+      "dinosaur_id": "DINO-052",
+      "genus": "Citipati",
+      "dimension": "年代与地层",
+      "title": "葬火龙｜年代定位",
+      "content": "葬火龙归入晚白垩世。来源目录约81—75百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/citipati.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-053",
+      "dinosaur_id": "DINO-053",
+      "genus": "Therizinosaurus",
+      "dimension": "年代与地层",
+      "title": "镰刀龙｜年代定位",
+      "content": "镰刀龙归入晚白垩世。来源目录约70—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-054",
+      "dinosaur_id": "DINO-054",
+      "genus": "Ornithomimus",
+      "dimension": "年代与地层",
+      "title": "似鸟龙｜年代定位",
+      "content": "似鸟龙归入晚白垩世。来源目录约74—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-055",
+      "dinosaur_id": "DINO-055",
+      "genus": "Compsognathus",
+      "dimension": "年代与地层",
+      "title": "美颌龙｜年代定位",
+      "content": "美颌龙归入晚侏罗世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-056",
+      "dinosaur_id": "DINO-056",
+      "genus": "Ornitholestes",
+      "dimension": "年代与地层",
+      "title": "嗜鸟龙｜年代定位",
+      "content": "嗜鸟龙归入晚侏罗世。来源目录约150—144百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-057",
+      "dinosaur_id": "DINO-057",
+      "genus": "Bambiraptor",
+      "dimension": "年代与地层",
+      "title": "斑比盗龙｜年代定位",
+      "content": "斑比盗龙归入晚白垩世。来源目录约84—71百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-058",
+      "dinosaur_id": "DINO-058",
+      "genus": "Archaeopteryx",
+      "dimension": "年代与地层",
+      "title": "始祖鸟｜年代定位",
+      "content": "始祖鸟归入晚侏罗世。来源目录约149—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-059",
+      "dinosaur_id": "DINO-059",
+      "genus": "Mononykus",
+      "dimension": "年代与地层",
+      "title": "单爪龙｜年代定位",
+      "content": "单爪龙归入晚白垩世。来源目录约81—68百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-060",
+      "dinosaur_id": "DINO-060",
+      "genus": "Styracosaurus",
+      "dimension": "年代与地层",
+      "title": "戟龙｜年代定位",
+      "content": "戟龙归入晚白垩世。来源目录约76—75百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-061",
+      "dinosaur_id": "DINO-061",
+      "genus": "Centrosaurus",
+      "dimension": "年代与地层",
+      "title": "尖角龙｜年代定位",
+      "content": "尖角龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-062",
+      "dinosaur_id": "DINO-062",
+      "genus": "Chasmosaurus",
+      "dimension": "年代与地层",
+      "title": "开角龙｜年代定位",
+      "content": "开角龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-063",
+      "dinosaur_id": "DINO-063",
+      "genus": "Protoceratops",
+      "dimension": "年代与地层",
+      "title": "原角龙｜年代定位",
+      "content": "原角龙归入晚白垩世。来源目录约74—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-064",
+      "dinosaur_id": "DINO-064",
+      "genus": "Psittacosaurus",
+      "dimension": "年代与地层",
+      "title": "鹦鹉嘴龙｜年代定位",
+      "content": "鹦鹉嘴龙归入早白垩世。来源目录约120—100百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-065",
+      "dinosaur_id": "DINO-065",
+      "genus": "Pachyrhinosaurus",
+      "dimension": "年代与地层",
+      "title": "厚鼻龙｜年代定位",
+      "content": "厚鼻龙归入晚白垩世。来源目录约74—68百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-066",
+      "dinosaur_id": "DINO-066",
+      "genus": "Avaceratops",
+      "dimension": "年代与地层",
+      "title": "爱氏角龙｜年代定位",
+      "content": "爱氏角龙归入晚白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-067",
+      "dinosaur_id": "DINO-067",
+      "genus": "Bagaceratops",
+      "dimension": "年代与地层",
+      "title": "弱角龙｜年代定位",
+      "content": "弱角龙归入晚白垩世。来源目录约85—80百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-068",
+      "dinosaur_id": "DINO-068",
+      "genus": "Edmontosaurus",
+      "dimension": "年代与地层",
+      "title": "埃德蒙顿龙｜年代定位",
+      "content": "埃德蒙顿龙归入晚白垩世。来源目录约76—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-069",
+      "dinosaur_id": "DINO-069",
+      "genus": "Corythosaurus",
+      "dimension": "年代与地层",
+      "title": "冠龙（冠饰鸭嘴龙）｜年代定位",
+      "content": "冠龙（冠饰鸭嘴龙）归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-070",
+      "dinosaur_id": "DINO-070",
+      "genus": "Lambeosaurus",
+      "dimension": "年代与地层",
+      "title": "赖氏龙｜年代定位",
+      "content": "赖氏龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-071",
+      "dinosaur_id": "DINO-071",
+      "genus": "Maiasaura",
+      "dimension": "年代与地层",
+      "title": "慈母龙｜年代定位",
+      "content": "慈母龙归入晚白垩世。来源目录约80—75百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-072",
+      "dinosaur_id": "DINO-072",
+      "genus": "Saurolophus",
+      "dimension": "年代与地层",
+      "title": "栉龙｜年代定位",
+      "content": "栉龙归入晚白垩世。来源目录约74—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-073",
+      "dinosaur_id": "DINO-073",
+      "genus": "Hypacrosaurus",
+      "dimension": "年代与地层",
+      "title": "亚冠龙｜年代定位",
+      "content": "亚冠龙归入晚白垩世。来源目录约70—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-074",
+      "dinosaur_id": "DINO-074",
+      "genus": "Tsintaosaurus",
+      "dimension": "年代与地层",
+      "title": "青岛龙｜年代定位",
+      "content": "青岛龙归入晚白垩世。来源目录约84—71百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-075",
+      "dinosaur_id": "DINO-075",
+      "genus": "Sauropelta",
+      "dimension": "年代与地层",
+      "title": "蜥结龙｜年代定位",
+      "content": "蜥结龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-076",
+      "dinosaur_id": "DINO-076",
+      "genus": "Nodosaurus",
+      "dimension": "年代与地层",
+      "title": "结节龙｜年代定位",
+      "content": "结节龙归入早白垩世。来源目录约110—100百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-077",
+      "dinosaur_id": "DINO-077",
+      "genus": "Edmontonia",
+      "dimension": "年代与地层",
+      "title": "埃德蒙顿甲龙｜年代定位",
+      "content": "埃德蒙顿甲龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-078",
+      "dinosaur_id": "DINO-078",
+      "genus": "Polacanthus",
+      "dimension": "年代与地层",
+      "title": "多刺甲龙｜年代定位",
+      "content": "多刺甲龙归入早白垩世。来源目录约125—125百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-079",
+      "dinosaur_id": "DINO-079",
+      "genus": "Hylaeosaurus",
+      "dimension": "年代与地层",
+      "title": "林龙｜年代定位",
+      "content": "林龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-080",
+      "dinosaur_id": "DINO-080",
+      "genus": "Gastonia",
+      "dimension": "年代与地层",
+      "title": "加斯顿龙｜年代定位",
+      "content": "加斯顿龙归入早白垩世。来源目录约142—127百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-081",
+      "dinosaur_id": "DINO-081",
+      "genus": "Minmi",
+      "dimension": "年代与地层",
+      "title": "敏迷龙｜年代定位",
+      "content": "敏迷龙归入早白垩世。精确数值年龄暂不在学习卡中采用，请见该条来源原值与核对说明。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/minmi.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-082",
+      "dinosaur_id": "DINO-082",
+      "genus": "Saichania",
+      "dimension": "年代与地层",
+      "title": "美甲龙｜年代定位",
+      "content": "美甲龙归入晚白垩世。来源目录约80—80百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-083",
+      "dinosaur_id": "DINO-083",
+      "genus": "Pinacosaurus",
+      "dimension": "年代与地层",
+      "title": "绘龙｜年代定位",
+      "content": "绘龙归入晚白垩世。来源目录约81—75百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-084",
+      "dinosaur_id": "DINO-084",
+      "genus": "Tarchia",
+      "dimension": "年代与地层",
+      "title": "多智龙｜年代定位",
+      "content": "多智龙归入晚白垩世。来源目录约75—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-085",
+      "dinosaur_id": "DINO-085",
+      "genus": "Kentrosaurus",
+      "dimension": "年代与地层",
+      "title": "钉状龙｜年代定位",
+      "content": "钉状龙归入晚侏罗世。来源目录约155—150百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-086",
+      "dinosaur_id": "DINO-086",
+      "genus": "Huayangosaurus",
+      "dimension": "年代与地层",
+      "title": "华阳龙｜年代定位",
+      "content": "华阳龙归入中侏罗世。来源目录约170—160百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-087",
+      "dinosaur_id": "DINO-087",
+      "genus": "Tuojiangosaurus",
+      "dimension": "年代与地层",
+      "title": "沱江龙｜年代定位",
+      "content": "沱江龙归入晚侏罗世。来源目录约157—154百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-088",
+      "dinosaur_id": "DINO-088",
+      "genus": "Dacentrurus",
+      "dimension": "年代与地层",
+      "title": "锐龙｜年代定位",
+      "content": "锐龙归入晚侏罗世。来源目录约154—150百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-089",
+      "dinosaur_id": "DINO-089",
+      "genus": "Hypsilophodon",
+      "dimension": "年代与地层",
+      "title": "棱齿龙｜年代定位",
+      "content": "棱齿龙归入早白垩世。来源目录约130—125百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-090",
+      "dinosaur_id": "DINO-090",
+      "genus": "Ouranosaurus",
+      "dimension": "年代与地层",
+      "title": "豪勇龙｜年代定位",
+      "content": "豪勇龙归入早白垩世。来源目录约115—100百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-091",
+      "dinosaur_id": "DINO-091",
+      "genus": "Tenontosaurus",
+      "dimension": "年代与地层",
+      "title": "腱龙｜年代定位",
+      "content": "腱龙归入早白垩世。来源目录约120—110百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-092",
+      "dinosaur_id": "DINO-092",
+      "genus": "Camptosaurus",
+      "dimension": "年代与地层",
+      "title": "弯龙｜年代定位",
+      "content": "弯龙归入晚侏罗世。来源目录约155—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-093",
+      "dinosaur_id": "DINO-093",
+      "genus": "Muttaburrasaurus",
+      "dimension": "年代与地层",
+      "title": "木他龙｜年代定位",
+      "content": "木他龙归入早白垩世。来源目录约110—100百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-094",
+      "dinosaur_id": "DINO-094",
+      "genus": "Thescelosaurus",
+      "dimension": "年代与地层",
+      "title": "奇异龙｜年代定位",
+      "content": "奇异龙归入晚白垩世。来源目录约76—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-095",
+      "dinosaur_id": "DINO-095",
+      "genus": "Parksosaurus",
+      "dimension": "年代与地层",
+      "title": "帕克氏龙｜年代定位",
+      "content": "帕克氏龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-096",
+      "dinosaur_id": "DINO-096",
+      "genus": "Stegoceras",
+      "dimension": "年代与地层",
+      "title": "剑角龙｜年代定位",
+      "content": "剑角龙归入晚白垩世。来源目录约76—74百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-097",
+      "dinosaur_id": "DINO-097",
+      "genus": "Velociraptor",
+      "dimension": "年代与地层",
+      "title": "迅猛龙（伶盗龙）｜年代定位",
+      "content": "迅猛龙（伶盗龙）归入晚白垩世。来源目录约74—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-098",
+      "dinosaur_id": "DINO-098",
+      "genus": "Ankylosaurus",
+      "dimension": "年代与地层",
+      "title": "甲龙｜年代定位",
+      "content": "甲龙归入晚白垩世。来源目录约68—66百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-099",
+      "dinosaur_id": "DINO-099",
+      "genus": "Brachiosaurus",
+      "dimension": "年代与地层",
+      "title": "腕龙｜年代定位",
+      "content": "腕龙归入晚侏罗世。来源目录约152—145百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-100",
+      "dinosaur_id": "DINO-100",
+      "genus": "Carnotaurus",
+      "dimension": "年代与地层",
+      "title": "牛龙（食肉牛龙）｜年代定位",
+      "content": "牛龙（食肉牛龙）归入晚白垩世。来源目录约70—70百万年前，此值是该资料的时间口径。年代表示化石材料所对应的时间信息，不是某个个体活了多少年。",
+      "source_urls": [
+        "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-101",
+      "dinosaur_id": "DINO-001",
+      "genus": "Tyrannosaurus",
+      "dimension": "规格与比较",
+      "title": "霸王龙（暴龙属）｜体型规格",
+      "content": "霸王龙（暴龙属）的体长参考约12米，体重参考约7吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-102",
+      "dinosaur_id": "DINO-002",
+      "genus": "Spinosaurus",
+      "dimension": "规格与比较",
+      "title": "棘龙｜体型规格",
+      "content": "棘龙的体长参考约14米，体重参考约7.4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-103",
+      "dinosaur_id": "DINO-003",
+      "genus": "Triceratops",
+      "dimension": "规格与比较",
+      "title": "三角龙｜体型规格",
+      "content": "三角龙的体长参考约9米，体重参考约10吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-104",
+      "dinosaur_id": "DINO-004",
+      "genus": "Stegosaurus",
+      "dimension": "规格与比较",
+      "title": "剑龙｜体型规格",
+      "content": "剑龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-105",
+      "dinosaur_id": "DINO-005",
+      "genus": "Diplodocus",
+      "dimension": "规格与比较",
+      "title": "梁龙｜体型规格",
+      "content": "梁龙的体长参考约26米，体重参考约15吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-106",
+      "dinosaur_id": "DINO-006",
+      "genus": "Coelophysis",
+      "dimension": "规格与比较",
+      "title": "腔骨龙｜体型规格",
+      "content": "腔骨龙的体长参考约2米，体重参考约0.027吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-107",
+      "dinosaur_id": "DINO-007",
+      "genus": "Iguanodon",
+      "dimension": "规格与比较",
+      "title": "禽龙｜体型规格",
+      "content": "禽龙的体长参考约10米，体重参考约4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-108",
+      "dinosaur_id": "DINO-008",
+      "genus": "Parasaurolophus",
+      "dimension": "规格与比较",
+      "title": "副栉龙｜体型规格",
+      "content": "副栉龙的体长参考约9米，体重参考约5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-109",
+      "dinosaur_id": "DINO-009",
+      "genus": "Pachycephalosaurus",
+      "dimension": "规格与比较",
+      "title": "肿头龙｜体型规格",
+      "content": "肿头龙的体长参考约3米，体重参考约0.45吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-110",
+      "dinosaur_id": "DINO-010",
+      "genus": "Deinonychus",
+      "dimension": "规格与比较",
+      "title": "恐爪龙｜体型规格",
+      "content": "恐爪龙的体长参考约3.4米，体重参考约0.1吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-111",
+      "dinosaur_id": "DINO-011",
+      "genus": "Herrerasaurus",
+      "dimension": "规格与比较",
+      "title": "埃雷拉龙｜体型规格",
+      "content": "埃雷拉龙的体长参考约3米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-112",
+      "dinosaur_id": "DINO-012",
+      "genus": "Eoraptor",
+      "dimension": "规格与比较",
+      "title": "始盗龙｜体型规格",
+      "content": "始盗龙的体长参考约1.7米，体重参考约0.01吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-113",
+      "dinosaur_id": "DINO-013",
+      "genus": "Plateosaurus",
+      "dimension": "规格与比较",
+      "title": "板龙｜体型规格",
+      "content": "板龙的体长参考约7米，体重参考约4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-114",
+      "dinosaur_id": "DINO-014",
+      "genus": "Riojasaurus",
+      "dimension": "规格与比较",
+      "title": "里奥哈龙｜体型规格",
+      "content": "里奥哈龙的体长参考约5.2米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-115",
+      "dinosaur_id": "DINO-015",
+      "genus": "Massospondylus",
+      "dimension": "规格与比较",
+      "title": "大椎龙｜体型规格",
+      "content": "大椎龙的体长参考约6米，体重参考约1吨。NHM 2020报道的近似值。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+        "https://www.nhm.ac.uk/discover/news/2020/april/most-detailed-look-inside-worlds-oldest-dinosaur-eggs.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-116",
+      "dinosaur_id": "DINO-016",
+      "genus": "Dilophosaurus",
+      "dimension": "规格与比较",
+      "title": "双脊龙｜体型规格",
+      "content": "双脊龙的体长参考约7米，体重参考约0.4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-117",
+      "dinosaur_id": "DINO-017",
+      "genus": "Cryolophosaurus",
+      "dimension": "规格与比较",
+      "title": "冰脊龙｜体型规格",
+      "content": "冰脊龙的体长参考约8米，体重参考约0.5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+        "https://www.fieldmuseum.org/collection-item-iconic/cryolophosaurus"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-118",
+      "dinosaur_id": "DINO-018",
+      "genus": "Scutellosaurus",
+      "dimension": "规格与比较",
+      "title": "小盾龙｜体型规格",
+      "content": "小盾龙的体长参考约1.2米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-119",
+      "dinosaur_id": "DINO-019",
+      "genus": "Shunosaurus",
+      "dimension": "规格与比较",
+      "title": "蜀龙｜体型规格",
+      "content": "蜀龙的体长参考约10米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-120",
+      "dinosaur_id": "DINO-020",
+      "genus": "Apatosaurus",
+      "dimension": "规格与比较",
+      "title": "迷惑龙｜体型规格",
+      "content": "迷惑龙的体长参考约21米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-121",
+      "dinosaur_id": "DINO-021",
+      "genus": "Camarasaurus",
+      "dimension": "规格与比较",
+      "title": "圆顶龙｜体型规格",
+      "content": "圆顶龙的体长参考约23米，体重参考约20吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-122",
+      "dinosaur_id": "DINO-022",
+      "genus": "Mamenchisaurus",
+      "dimension": "规格与比较",
+      "title": "马门溪龙｜体型规格",
+      "content": "马门溪龙的体长参考约22米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-123",
+      "dinosaur_id": "DINO-023",
+      "genus": "Omeisaurus",
+      "dimension": "规格与比较",
+      "title": "峨眉龙｜体型规格",
+      "content": "峨眉龙的体长参考约20米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-124",
+      "dinosaur_id": "DINO-024",
+      "genus": "Cetiosaurus",
+      "dimension": "规格与比较",
+      "title": "鲸龙｜体型规格",
+      "content": "鲸龙的体长参考约18米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-125",
+      "dinosaur_id": "DINO-025",
+      "genus": "Argentinosaurus",
+      "dimension": "规格与比较",
+      "title": "阿根廷龙｜体型规格",
+      "content": "阿根廷龙的体长参考约35米，体重参考约70吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-126",
+      "dinosaur_id": "DINO-026",
+      "genus": "Alamosaurus",
+      "dimension": "规格与比较",
+      "title": "阿拉摩龙｜体型规格",
+      "content": "阿拉摩龙的体长参考约21米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-127",
+      "dinosaur_id": "DINO-027",
+      "genus": "Saltasaurus",
+      "dimension": "规格与比较",
+      "title": "萨尔塔龙｜体型规格",
+      "content": "萨尔塔龙的体长参考约12米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-128",
+      "dinosaur_id": "DINO-028",
+      "genus": "Dicraeosaurus",
+      "dimension": "规格与比较",
+      "title": "叉龙｜体型规格",
+      "content": "叉龙的体长参考约20米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-129",
+      "dinosaur_id": "DINO-029",
+      "genus": "Giraffatitan",
+      "dimension": "规格与比较",
+      "title": "长颈巨龙｜体型规格",
+      "content": "长颈巨龙的体长参考约23米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-130",
+      "dinosaur_id": "DINO-030",
+      "genus": "Nigersaurus",
+      "dimension": "规格与比较",
+      "title": "尼日尔龙｜体型规格",
+      "content": "尼日尔龙的体长参考约15米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-131",
+      "dinosaur_id": "DINO-031",
+      "genus": "Albertosaurus",
+      "dimension": "规格与比较",
+      "title": "阿尔伯塔龙｜体型规格",
+      "content": "阿尔伯塔龙的体长参考约9米，体重参考约1.5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-132",
+      "dinosaur_id": "DINO-032",
+      "genus": "Gorgosaurus",
+      "dimension": "规格与比较",
+      "title": "蛇发女怪龙｜体型规格",
+      "content": "蛇发女怪龙的体长参考约8.6米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-133",
+      "dinosaur_id": "DINO-033",
+      "genus": "Tarbosaurus",
+      "dimension": "规格与比较",
+      "title": "特暴龙｜体型规格",
+      "content": "特暴龙的体长参考约10米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-134",
+      "dinosaur_id": "DINO-034",
+      "genus": "Daspletosaurus",
+      "dimension": "规格与比较",
+      "title": "惧龙｜体型规格",
+      "content": "惧龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-135",
+      "dinosaur_id": "DINO-035",
+      "genus": "Guanlong",
+      "dimension": "规格与比较",
+      "title": "冠龙｜体型规格",
+      "content": "冠龙的体长参考约3米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-136",
+      "dinosaur_id": "DINO-036",
+      "genus": "Yutyrannus",
+      "dimension": "规格与比较",
+      "title": "羽王龙｜体型规格",
+      "content": "羽王龙的体长参考约7.5米，体重参考约1.1吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-137",
+      "dinosaur_id": "DINO-037",
+      "genus": "Baryonyx",
+      "dimension": "规格与比较",
+      "title": "重爪龙｜体型规格",
+      "content": "重爪龙的体长参考约10米，体重参考约2吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-138",
+      "dinosaur_id": "DINO-038",
+      "genus": "Suchomimus",
+      "dimension": "规格与比较",
+      "title": "似鳄龙｜体型规格",
+      "content": "似鳄龙的体长参考约11米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-139",
+      "dinosaur_id": "DINO-039",
+      "genus": "Irritator",
+      "dimension": "规格与比较",
+      "title": "激龙｜体型规格",
+      "content": "激龙的体长参考约6.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/irritator.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-140",
+      "dinosaur_id": "DINO-040",
+      "genus": "Carcharodontosaurus",
+      "dimension": "规格与比较",
+      "title": "鲨齿龙｜体型规格",
+      "content": "鲨齿龙的体长参考约12.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-141",
+      "dinosaur_id": "DINO-041",
+      "genus": "Giganotosaurus",
+      "dimension": "规格与比较",
+      "title": "南方巨兽龙｜体型规格",
+      "content": "南方巨兽龙的体长参考约13米，体重参考约13.8吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-142",
+      "dinosaur_id": "DINO-042",
+      "genus": "Acrocanthosaurus",
+      "dimension": "规格与比较",
+      "title": "高棘龙｜体型规格",
+      "content": "高棘龙的体长参考约12米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-143",
+      "dinosaur_id": "DINO-043",
+      "genus": "Mapusaurus",
+      "dimension": "规格与比较",
+      "title": "马普龙｜体型规格",
+      "content": "马普龙的体长参考约13米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-144",
+      "dinosaur_id": "DINO-044",
+      "genus": "Neovenator",
+      "dimension": "规格与比较",
+      "title": "新猎龙｜体型规格",
+      "content": "新猎龙的体长参考约7.4米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-145",
+      "dinosaur_id": "DINO-045",
+      "genus": "Yangchuanosaurus",
+      "dimension": "规格与比较",
+      "title": "永川龙｜体型规格",
+      "content": "永川龙的体长参考约10米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-146",
+      "dinosaur_id": "DINO-046",
+      "genus": "Ceratosaurus",
+      "dimension": "规格与比较",
+      "title": "角鼻龙｜体型规格",
+      "content": "角鼻龙的体长参考约7米，体重参考约0.98吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-147",
+      "dinosaur_id": "DINO-047",
+      "genus": "Abelisaurus",
+      "dimension": "规格与比较",
+      "title": "阿贝力龙｜体型规格",
+      "content": "阿贝力龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-148",
+      "dinosaur_id": "DINO-048",
+      "genus": "Majungasaurus",
+      "dimension": "规格与比较",
+      "title": "玛君龙｜体型规格",
+      "content": "玛君龙的体长参考约6米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-149",
+      "dinosaur_id": "DINO-049",
+      "genus": "Utahraptor",
+      "dimension": "规格与比较",
+      "title": "犹他盗龙｜体型规格",
+      "content": "犹他盗龙的体长参考约5.5米，体重参考约0.35吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-150",
+      "dinosaur_id": "DINO-050",
+      "genus": "Sinosauropteryx",
+      "dimension": "规格与比较",
+      "title": "中华龙鸟｜体型规格",
+      "content": "中华龙鸟的体长参考约1.1米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-151",
+      "dinosaur_id": "DINO-051",
+      "genus": "Caudipteryx",
+      "dimension": "规格与比较",
+      "title": "尾羽龙｜体型规格",
+      "content": "尾羽龙的体长参考约1米，体重参考约0.002吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-152",
+      "dinosaur_id": "DINO-052",
+      "genus": "Citipati",
+      "dimension": "规格与比较",
+      "title": "葬火龙｜体型规格",
+      "content": "葬火龙的体长参考约2.1米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/citipati.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-153",
+      "dinosaur_id": "DINO-053",
+      "genus": "Therizinosaurus",
+      "dimension": "规格与比较",
+      "title": "镰刀龙｜体型规格",
+      "content": "镰刀龙的体长参考约10米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-154",
+      "dinosaur_id": "DINO-054",
+      "genus": "Ornithomimus",
+      "dimension": "规格与比较",
+      "title": "似鸟龙｜体型规格",
+      "content": "似鸟龙的体长参考约4米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-155",
+      "dinosaur_id": "DINO-055",
+      "genus": "Compsognathus",
+      "dimension": "规格与比较",
+      "title": "美颌龙｜体型规格",
+      "content": "美颌龙的体长参考约0.7米，体重参考约0.003吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-156",
+      "dinosaur_id": "DINO-056",
+      "genus": "Ornitholestes",
+      "dimension": "规格与比较",
+      "title": "嗜鸟龙｜体型规格",
+      "content": "嗜鸟龙的体长参考约2米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-157",
+      "dinosaur_id": "DINO-057",
+      "genus": "Bambiraptor",
+      "dimension": "规格与比较",
+      "title": "斑比盗龙｜体型规格",
+      "content": "斑比盗龙的体长参考约1米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-158",
+      "dinosaur_id": "DINO-058",
+      "genus": "Archaeopteryx",
+      "dimension": "规格与比较",
+      "title": "始祖鸟｜体型规格",
+      "content": "始祖鸟的体长参考约0.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-159",
+      "dinosaur_id": "DINO-059",
+      "genus": "Mononykus",
+      "dimension": "规格与比较",
+      "title": "单爪龙｜体型规格",
+      "content": "单爪龙的体长参考约1米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-160",
+      "dinosaur_id": "DINO-060",
+      "genus": "Styracosaurus",
+      "dimension": "规格与比较",
+      "title": "戟龙｜体型规格",
+      "content": "戟龙的体长参考约5.5米，体重参考约2.7吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-161",
+      "dinosaur_id": "DINO-061",
+      "genus": "Centrosaurus",
+      "dimension": "规格与比较",
+      "title": "尖角龙｜体型规格",
+      "content": "尖角龙的体长参考约6米，体重参考约1吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-162",
+      "dinosaur_id": "DINO-062",
+      "genus": "Chasmosaurus",
+      "dimension": "规格与比较",
+      "title": "开角龙｜体型规格",
+      "content": "开角龙的体长参考约5米，体重参考约2.5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-163",
+      "dinosaur_id": "DINO-063",
+      "genus": "Protoceratops",
+      "dimension": "规格与比较",
+      "title": "原角龙｜体型规格",
+      "content": "原角龙的体长参考约1.8米，体重参考约0.4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-164",
+      "dinosaur_id": "DINO-064",
+      "genus": "Psittacosaurus",
+      "dimension": "规格与比较",
+      "title": "鹦鹉嘴龙｜体型规格",
+      "content": "鹦鹉嘴龙的体长参考约2米，体重参考约0.05吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-165",
+      "dinosaur_id": "DINO-065",
+      "genus": "Pachyrhinosaurus",
+      "dimension": "规格与比较",
+      "title": "厚鼻龙｜体型规格",
+      "content": "厚鼻龙的体长参考约8米，体重参考约4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-166",
+      "dinosaur_id": "DINO-066",
+      "genus": "Avaceratops",
+      "dimension": "规格与比较",
+      "title": "爱氏角龙｜体型规格",
+      "content": "爱氏角龙的体长参考约2.3米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-167",
+      "dinosaur_id": "DINO-067",
+      "genus": "Bagaceratops",
+      "dimension": "规格与比较",
+      "title": "弱角龙｜体型规格",
+      "content": "弱角龙的体长参考约1米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-168",
+      "dinosaur_id": "DINO-068",
+      "genus": "Edmontosaurus",
+      "dimension": "规格与比较",
+      "title": "埃德蒙顿龙｜体型规格",
+      "content": "埃德蒙顿龙的体长参考约13米，体重参考约3.4吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-169",
+      "dinosaur_id": "DINO-069",
+      "genus": "Corythosaurus",
+      "dimension": "规格与比较",
+      "title": "冠龙（冠饰鸭嘴龙）｜体型规格",
+      "content": "冠龙（冠饰鸭嘴龙）的体长参考约10米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-170",
+      "dinosaur_id": "DINO-070",
+      "genus": "Lambeosaurus",
+      "dimension": "规格与比较",
+      "title": "赖氏龙｜体型规格",
+      "content": "赖氏龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-171",
+      "dinosaur_id": "DINO-071",
+      "genus": "Maiasaura",
+      "dimension": "规格与比较",
+      "title": "慈母龙｜体型规格",
+      "content": "慈母龙的体长参考约9米，体重参考约2.5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-172",
+      "dinosaur_id": "DINO-072",
+      "genus": "Saurolophus",
+      "dimension": "规格与比较",
+      "title": "栉龙｜体型规格",
+      "content": "栉龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-173",
+      "dinosaur_id": "DINO-073",
+      "genus": "Hypacrosaurus",
+      "dimension": "规格与比较",
+      "title": "亚冠龙｜体型规格",
+      "content": "亚冠龙的体长参考约9米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-174",
+      "dinosaur_id": "DINO-074",
+      "genus": "Tsintaosaurus",
+      "dimension": "规格与比较",
+      "title": "青岛龙｜体型规格",
+      "content": "青岛龙的体长参考约12米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-175",
+      "dinosaur_id": "DINO-075",
+      "genus": "Sauropelta",
+      "dimension": "规格与比较",
+      "title": "蜥结龙｜体型规格",
+      "content": "蜥结龙的体长参考约6.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-176",
+      "dinosaur_id": "DINO-076",
+      "genus": "Nodosaurus",
+      "dimension": "规格与比较",
+      "title": "结节龙｜体型规格",
+      "content": "结节龙的体长参考约5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-177",
+      "dinosaur_id": "DINO-077",
+      "genus": "Edmontonia",
+      "dimension": "规格与比较",
+      "title": "埃德蒙顿甲龙｜体型规格",
+      "content": "埃德蒙顿甲龙的体长参考约4米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-178",
+      "dinosaur_id": "DINO-078",
+      "genus": "Polacanthus",
+      "dimension": "规格与比较",
+      "title": "多刺甲龙｜体型规格",
+      "content": "多刺甲龙的体长参考约5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-179",
+      "dinosaur_id": "DINO-079",
+      "genus": "Hylaeosaurus",
+      "dimension": "规格与比较",
+      "title": "林龙｜体型规格",
+      "content": "林龙的体长参考约5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-180",
+      "dinosaur_id": "DINO-080",
+      "genus": "Gastonia",
+      "dimension": "规格与比较",
+      "title": "加斯顿龙｜体型规格",
+      "content": "加斯顿龙的体长参考约4.6米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-181",
+      "dinosaur_id": "DINO-081",
+      "genus": "Minmi",
+      "dimension": "规格与比较",
+      "title": "敏迷龙｜体型规格",
+      "content": "敏迷龙的体长参考约3米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/minmi.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-182",
+      "dinosaur_id": "DINO-082",
+      "genus": "Saichania",
+      "dimension": "规格与比较",
+      "title": "美甲龙｜体型规格",
+      "content": "美甲龙的体长参考约6.6米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-183",
+      "dinosaur_id": "DINO-083",
+      "genus": "Pinacosaurus",
+      "dimension": "规格与比较",
+      "title": "绘龙｜体型规格",
+      "content": "绘龙的体长参考约5米，体重参考约1吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-184",
+      "dinosaur_id": "DINO-084",
+      "genus": "Tarchia",
+      "dimension": "规格与比较",
+      "title": "多智龙｜体型规格",
+      "content": "多智龙的体长参考约5.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-185",
+      "dinosaur_id": "DINO-085",
+      "genus": "Kentrosaurus",
+      "dimension": "规格与比较",
+      "title": "钉状龙｜体型规格",
+      "content": "钉状龙的体长参考约5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-186",
+      "dinosaur_id": "DINO-086",
+      "genus": "Huayangosaurus",
+      "dimension": "规格与比较",
+      "title": "华阳龙｜体型规格",
+      "content": "华阳龙的体长参考约4.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-187",
+      "dinosaur_id": "DINO-087",
+      "genus": "Tuojiangosaurus",
+      "dimension": "规格与比较",
+      "title": "沱江龙｜体型规格",
+      "content": "沱江龙的体长参考约7米，体重参考约1.5吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-188",
+      "dinosaur_id": "DINO-088",
+      "genus": "Dacentrurus",
+      "dimension": "规格与比较",
+      "title": "锐龙｜体型规格",
+      "content": "锐龙的体长参考约6米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-189",
+      "dinosaur_id": "DINO-089",
+      "genus": "Hypsilophodon",
+      "dimension": "规格与比较",
+      "title": "棱齿龙｜体型规格",
+      "content": "棱齿龙的体长参考约2米，体重参考约0.02吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-190",
+      "dinosaur_id": "DINO-090",
+      "genus": "Ouranosaurus",
+      "dimension": "规格与比较",
+      "title": "豪勇龙｜体型规格",
+      "content": "豪勇龙的体长参考约7米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-191",
+      "dinosaur_id": "DINO-091",
+      "genus": "Tenontosaurus",
+      "dimension": "规格与比较",
+      "title": "腱龙｜体型规格",
+      "content": "腱龙的体长参考约7米，体重参考约0.9吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-192",
+      "dinosaur_id": "DINO-092",
+      "genus": "Camptosaurus",
+      "dimension": "规格与比较",
+      "title": "弯龙｜体型规格",
+      "content": "弯龙的体长参考约5米，体重参考约1吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-193",
+      "dinosaur_id": "DINO-093",
+      "genus": "Muttaburrasaurus",
+      "dimension": "规格与比较",
+      "title": "木他龙｜体型规格",
+      "content": "木他龙的体长参考约7米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-194",
+      "dinosaur_id": "DINO-094",
+      "genus": "Thescelosaurus",
+      "dimension": "规格与比较",
+      "title": "奇异龙｜体型规格",
+      "content": "奇异龙的体长参考约3.5米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-195",
+      "dinosaur_id": "DINO-095",
+      "genus": "Parksosaurus",
+      "dimension": "规格与比较",
+      "title": "帕克氏龙｜体型规格",
+      "content": "帕克氏龙的体长参考约3米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-196",
+      "dinosaur_id": "DINO-096",
+      "genus": "Stegoceras",
+      "dimension": "规格与比较",
+      "title": "剑角龙｜体型规格",
+      "content": "剑角龙的体长参考约2.4米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-197",
+      "dinosaur_id": "DINO-097",
+      "genus": "Velociraptor",
+      "dimension": "规格与比较",
+      "title": "迅猛龙（伶盗龙）｜体型规格",
+      "content": "迅猛龙（伶盗龙）的体长参考约1.8米，体重参考约0.007吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-198",
+      "dinosaur_id": "DINO-098",
+      "genus": "Ankylosaurus",
+      "dimension": "规格与比较",
+      "title": "甲龙｜体型规格",
+      "content": "甲龙的体长参考约8米，体重参考约8吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-199",
+      "dinosaur_id": "DINO-099",
+      "genus": "Brachiosaurus",
+      "dimension": "规格与比较",
+      "title": "腕龙｜体型规格",
+      "content": "腕龙的体长参考约22米，体重参考约46.9吨。NHM科普目录参考估值；不是最新最大值或全属通用范围。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-200",
+      "dinosaur_id": "DINO-100",
+      "genus": "Carnotaurus",
+      "dimension": "规格与比较",
+      "title": "牛龙（食肉牛龙）｜体型规格",
+      "content": "牛龙（食肉牛龙）的体长参考约8米；选用来源没有在本库采用的可比体重值，留空而不按体长猜算。MNHN约8—9米；用8米作索引参考点。体长和体重不是同一量，模型、标本完整度及发育阶段都会影响估计。",
+      "source_urls": [
+        "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-201",
+      "dinosaur_id": "DINO-001",
+      "genus": "Tyrannosaurus",
+      "dimension": "产地与分布",
+      "title": "霸王龙（暴龙属）｜化石产地",
+      "content": "霸王龙（暴龙属）在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-202",
+      "dinosaur_id": "DINO-002",
+      "genus": "Spinosaurus",
+      "dimension": "产地与分布",
+      "title": "棘龙｜化石产地",
+      "content": "棘龙在本次选用来源中的发现地区为埃及、摩洛哥。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-203",
+      "dinosaur_id": "DINO-003",
+      "genus": "Triceratops",
+      "dimension": "产地与分布",
+      "title": "三角龙｜化石产地",
+      "content": "三角龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-204",
+      "dinosaur_id": "DINO-004",
+      "genus": "Stegosaurus",
+      "dimension": "产地与分布",
+      "title": "剑龙｜化石产地",
+      "content": "剑龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-205",
+      "dinosaur_id": "DINO-005",
+      "genus": "Diplodocus",
+      "dimension": "产地与分布",
+      "title": "梁龙｜化石产地",
+      "content": "梁龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-206",
+      "dinosaur_id": "DINO-006",
+      "genus": "Coelophysis",
+      "dimension": "产地与分布",
+      "title": "腔骨龙｜化石产地",
+      "content": "腔骨龙在本次选用来源中的发现地区为南非、美国、津巴布韦。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-207",
+      "dinosaur_id": "DINO-007",
+      "genus": "Iguanodon",
+      "dimension": "产地与分布",
+      "title": "禽龙｜化石产地",
+      "content": "禽龙在本次选用来源中的发现地区为比利时、英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-208",
+      "dinosaur_id": "DINO-008",
+      "genus": "Parasaurolophus",
+      "dimension": "产地与分布",
+      "title": "副栉龙｜化石产地",
+      "content": "副栉龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-209",
+      "dinosaur_id": "DINO-009",
+      "genus": "Pachycephalosaurus",
+      "dimension": "产地与分布",
+      "title": "肿头龙｜化石产地",
+      "content": "肿头龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-210",
+      "dinosaur_id": "DINO-010",
+      "genus": "Deinonychus",
+      "dimension": "产地与分布",
+      "title": "恐爪龙｜化石产地",
+      "content": "恐爪龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-211",
+      "dinosaur_id": "DINO-011",
+      "genus": "Herrerasaurus",
+      "dimension": "产地与分布",
+      "title": "埃雷拉龙｜化石产地",
+      "content": "埃雷拉龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-212",
+      "dinosaur_id": "DINO-012",
+      "genus": "Eoraptor",
+      "dimension": "产地与分布",
+      "title": "始盗龙｜化石产地",
+      "content": "始盗龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-213",
+      "dinosaur_id": "DINO-013",
+      "genus": "Plateosaurus",
+      "dimension": "产地与分布",
+      "title": "板龙｜化石产地",
+      "content": "板龙在本次选用来源中的发现地区为法国、德国、瑞士。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-214",
+      "dinosaur_id": "DINO-014",
+      "genus": "Riojasaurus",
+      "dimension": "产地与分布",
+      "title": "里奥哈龙｜化石产地",
+      "content": "里奥哈龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-215",
+      "dinosaur_id": "DINO-015",
+      "genus": "Massospondylus",
+      "dimension": "产地与分布",
+      "title": "大椎龙｜化石产地",
+      "content": "大椎龙在本次选用来源中的发现地区为莱索托、南非、津巴布韦。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+        "https://www.nhm.ac.uk/discover/news/2020/april/most-detailed-look-inside-worlds-oldest-dinosaur-eggs.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-216",
+      "dinosaur_id": "DINO-016",
+      "genus": "Dilophosaurus",
+      "dimension": "产地与分布",
+      "title": "双脊龙｜化石产地",
+      "content": "双脊龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-217",
+      "dinosaur_id": "DINO-017",
+      "genus": "Cryolophosaurus",
+      "dimension": "产地与分布",
+      "title": "冰脊龙｜化石产地",
+      "content": "冰脊龙在本次选用来源中的发现地区为南极洲。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+        "https://www.fieldmuseum.org/collection-item-iconic/cryolophosaurus"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-218",
+      "dinosaur_id": "DINO-018",
+      "genus": "Scutellosaurus",
+      "dimension": "产地与分布",
+      "title": "小盾龙｜化石产地",
+      "content": "小盾龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-219",
+      "dinosaur_id": "DINO-019",
+      "genus": "Shunosaurus",
+      "dimension": "产地与分布",
+      "title": "蜀龙｜化石产地",
+      "content": "蜀龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-220",
+      "dinosaur_id": "DINO-020",
+      "genus": "Apatosaurus",
+      "dimension": "产地与分布",
+      "title": "迷惑龙｜化石产地",
+      "content": "迷惑龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-221",
+      "dinosaur_id": "DINO-021",
+      "genus": "Camarasaurus",
+      "dimension": "产地与分布",
+      "title": "圆顶龙｜化石产地",
+      "content": "圆顶龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-222",
+      "dinosaur_id": "DINO-022",
+      "genus": "Mamenchisaurus",
+      "dimension": "产地与分布",
+      "title": "马门溪龙｜化石产地",
+      "content": "马门溪龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-223",
+      "dinosaur_id": "DINO-023",
+      "genus": "Omeisaurus",
+      "dimension": "产地与分布",
+      "title": "峨眉龙｜化石产地",
+      "content": "峨眉龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-224",
+      "dinosaur_id": "DINO-024",
+      "genus": "Cetiosaurus",
+      "dimension": "产地与分布",
+      "title": "鲸龙｜化石产地",
+      "content": "鲸龙在本次选用来源中的发现地区为英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-225",
+      "dinosaur_id": "DINO-025",
+      "genus": "Argentinosaurus",
+      "dimension": "产地与分布",
+      "title": "阿根廷龙｜化石产地",
+      "content": "阿根廷龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-226",
+      "dinosaur_id": "DINO-026",
+      "genus": "Alamosaurus",
+      "dimension": "产地与分布",
+      "title": "阿拉摩龙｜化石产地",
+      "content": "阿拉摩龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-227",
+      "dinosaur_id": "DINO-027",
+      "genus": "Saltasaurus",
+      "dimension": "产地与分布",
+      "title": "萨尔塔龙｜化石产地",
+      "content": "萨尔塔龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-228",
+      "dinosaur_id": "DINO-028",
+      "genus": "Dicraeosaurus",
+      "dimension": "产地与分布",
+      "title": "叉龙｜化石产地",
+      "content": "叉龙在本次选用来源中的发现地区为坦桑尼亚。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-229",
+      "dinosaur_id": "DINO-029",
+      "genus": "Giraffatitan",
+      "dimension": "产地与分布",
+      "title": "长颈巨龙｜化石产地",
+      "content": "长颈巨龙在本次选用来源中的发现地区为坦桑尼亚。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-230",
+      "dinosaur_id": "DINO-030",
+      "genus": "Nigersaurus",
+      "dimension": "产地与分布",
+      "title": "尼日尔龙｜化石产地",
+      "content": "尼日尔龙在本次选用来源中的发现地区为阿尔及利亚、尼日尔、突尼斯。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-231",
+      "dinosaur_id": "DINO-031",
+      "genus": "Albertosaurus",
+      "dimension": "产地与分布",
+      "title": "阿尔伯塔龙｜化石产地",
+      "content": "阿尔伯塔龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-232",
+      "dinosaur_id": "DINO-032",
+      "genus": "Gorgosaurus",
+      "dimension": "产地与分布",
+      "title": "蛇发女怪龙｜化石产地",
+      "content": "蛇发女怪龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-233",
+      "dinosaur_id": "DINO-033",
+      "genus": "Tarbosaurus",
+      "dimension": "产地与分布",
+      "title": "特暴龙｜化石产地",
+      "content": "特暴龙在本次选用来源中的发现地区为中国、蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-234",
+      "dinosaur_id": "DINO-034",
+      "genus": "Daspletosaurus",
+      "dimension": "产地与分布",
+      "title": "惧龙｜化石产地",
+      "content": "惧龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-235",
+      "dinosaur_id": "DINO-035",
+      "genus": "Guanlong",
+      "dimension": "产地与分布",
+      "title": "冠龙｜化石产地",
+      "content": "冠龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-236",
+      "dinosaur_id": "DINO-036",
+      "genus": "Yutyrannus",
+      "dimension": "产地与分布",
+      "title": "羽王龙｜化石产地",
+      "content": "羽王龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-237",
+      "dinosaur_id": "DINO-037",
+      "genus": "Baryonyx",
+      "dimension": "产地与分布",
+      "title": "重爪龙｜化石产地",
+      "content": "重爪龙在本次选用来源中的发现地区为西班牙、英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-238",
+      "dinosaur_id": "DINO-038",
+      "genus": "Suchomimus",
+      "dimension": "产地与分布",
+      "title": "似鳄龙｜化石产地",
+      "content": "似鳄龙在本次选用来源中的发现地区为尼日尔。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-239",
+      "dinosaur_id": "DINO-039",
+      "genus": "Irritator",
+      "dimension": "产地与分布",
+      "title": "激龙｜化石产地",
+      "content": "激龙在本次选用来源中的发现地区为巴西。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/irritator.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-240",
+      "dinosaur_id": "DINO-040",
+      "genus": "Carcharodontosaurus",
+      "dimension": "产地与分布",
+      "title": "鲨齿龙｜化石产地",
+      "content": "鲨齿龙在本次选用来源中的发现地区为阿尔及利亚、埃及、摩洛哥、北非。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-241",
+      "dinosaur_id": "DINO-041",
+      "genus": "Giganotosaurus",
+      "dimension": "产地与分布",
+      "title": "南方巨兽龙｜化石产地",
+      "content": "南方巨兽龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-242",
+      "dinosaur_id": "DINO-042",
+      "genus": "Acrocanthosaurus",
+      "dimension": "产地与分布",
+      "title": "高棘龙｜化石产地",
+      "content": "高棘龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-243",
+      "dinosaur_id": "DINO-043",
+      "genus": "Mapusaurus",
+      "dimension": "产地与分布",
+      "title": "马普龙｜化石产地",
+      "content": "马普龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-244",
+      "dinosaur_id": "DINO-044",
+      "genus": "Neovenator",
+      "dimension": "产地与分布",
+      "title": "新猎龙｜化石产地",
+      "content": "新猎龙在本次选用来源中的发现地区为英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-245",
+      "dinosaur_id": "DINO-045",
+      "genus": "Yangchuanosaurus",
+      "dimension": "产地与分布",
+      "title": "永川龙｜化石产地",
+      "content": "永川龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-246",
+      "dinosaur_id": "DINO-046",
+      "genus": "Ceratosaurus",
+      "dimension": "产地与分布",
+      "title": "角鼻龙｜化石产地",
+      "content": "角鼻龙在本次选用来源中的发现地区为葡萄牙、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-247",
+      "dinosaur_id": "DINO-047",
+      "genus": "Abelisaurus",
+      "dimension": "产地与分布",
+      "title": "阿贝力龙｜化石产地",
+      "content": "阿贝力龙在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-248",
+      "dinosaur_id": "DINO-048",
+      "genus": "Majungasaurus",
+      "dimension": "产地与分布",
+      "title": "玛君龙｜化石产地",
+      "content": "玛君龙在本次选用来源中的发现地区为马达加斯加。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-249",
+      "dinosaur_id": "DINO-049",
+      "genus": "Utahraptor",
+      "dimension": "产地与分布",
+      "title": "犹他盗龙｜化石产地",
+      "content": "犹他盗龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-250",
+      "dinosaur_id": "DINO-050",
+      "genus": "Sinosauropteryx",
+      "dimension": "产地与分布",
+      "title": "中华龙鸟｜化石产地",
+      "content": "中华龙鸟在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-251",
+      "dinosaur_id": "DINO-051",
+      "genus": "Caudipteryx",
+      "dimension": "产地与分布",
+      "title": "尾羽龙｜化石产地",
+      "content": "尾羽龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-252",
+      "dinosaur_id": "DINO-052",
+      "genus": "Citipati",
+      "dimension": "产地与分布",
+      "title": "葬火龙｜化石产地",
+      "content": "葬火龙在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/citipati.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-253",
+      "dinosaur_id": "DINO-053",
+      "genus": "Therizinosaurus",
+      "dimension": "产地与分布",
+      "title": "镰刀龙｜化石产地",
+      "content": "镰刀龙在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-254",
+      "dinosaur_id": "DINO-054",
+      "genus": "Ornithomimus",
+      "dimension": "产地与分布",
+      "title": "似鸟龙｜化石产地",
+      "content": "似鸟龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-255",
+      "dinosaur_id": "DINO-055",
+      "genus": "Compsognathus",
+      "dimension": "产地与分布",
+      "title": "美颌龙｜化石产地",
+      "content": "美颌龙在本次选用来源中的发现地区为法国、德国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-256",
+      "dinosaur_id": "DINO-056",
+      "genus": "Ornitholestes",
+      "dimension": "产地与分布",
+      "title": "嗜鸟龙｜化石产地",
+      "content": "嗜鸟龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-257",
+      "dinosaur_id": "DINO-057",
+      "genus": "Bambiraptor",
+      "dimension": "产地与分布",
+      "title": "斑比盗龙｜化石产地",
+      "content": "斑比盗龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-258",
+      "dinosaur_id": "DINO-058",
+      "genus": "Archaeopteryx",
+      "dimension": "产地与分布",
+      "title": "始祖鸟｜化石产地",
+      "content": "始祖鸟在本次选用来源中的发现地区为德国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-259",
+      "dinosaur_id": "DINO-059",
+      "genus": "Mononykus",
+      "dimension": "产地与分布",
+      "title": "单爪龙｜化石产地",
+      "content": "单爪龙在本次选用来源中的发现地区为中国、蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-260",
+      "dinosaur_id": "DINO-060",
+      "genus": "Styracosaurus",
+      "dimension": "产地与分布",
+      "title": "戟龙｜化石产地",
+      "content": "戟龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-261",
+      "dinosaur_id": "DINO-061",
+      "genus": "Centrosaurus",
+      "dimension": "产地与分布",
+      "title": "尖角龙｜化石产地",
+      "content": "尖角龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-262",
+      "dinosaur_id": "DINO-062",
+      "genus": "Chasmosaurus",
+      "dimension": "产地与分布",
+      "title": "开角龙｜化石产地",
+      "content": "开角龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-263",
+      "dinosaur_id": "DINO-063",
+      "genus": "Protoceratops",
+      "dimension": "产地与分布",
+      "title": "原角龙｜化石产地",
+      "content": "原角龙在本次选用来源中的发现地区为中国、蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-264",
+      "dinosaur_id": "DINO-064",
+      "genus": "Psittacosaurus",
+      "dimension": "产地与分布",
+      "title": "鹦鹉嘴龙｜化石产地",
+      "content": "鹦鹉嘴龙在本次选用来源中的发现地区为中国、蒙古国、俄罗斯。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-265",
+      "dinosaur_id": "DINO-065",
+      "genus": "Pachyrhinosaurus",
+      "dimension": "产地与分布",
+      "title": "厚鼻龙｜化石产地",
+      "content": "厚鼻龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-266",
+      "dinosaur_id": "DINO-066",
+      "genus": "Avaceratops",
+      "dimension": "产地与分布",
+      "title": "爱氏角龙｜化石产地",
+      "content": "爱氏角龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-267",
+      "dinosaur_id": "DINO-067",
+      "genus": "Bagaceratops",
+      "dimension": "产地与分布",
+      "title": "弱角龙｜化石产地",
+      "content": "弱角龙在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-268",
+      "dinosaur_id": "DINO-068",
+      "genus": "Edmontosaurus",
+      "dimension": "产地与分布",
+      "title": "埃德蒙顿龙｜化石产地",
+      "content": "埃德蒙顿龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-269",
+      "dinosaur_id": "DINO-069",
+      "genus": "Corythosaurus",
+      "dimension": "产地与分布",
+      "title": "冠龙（冠饰鸭嘴龙）｜化石产地",
+      "content": "冠龙（冠饰鸭嘴龙）在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-270",
+      "dinosaur_id": "DINO-070",
+      "genus": "Lambeosaurus",
+      "dimension": "产地与分布",
+      "title": "赖氏龙｜化石产地",
+      "content": "赖氏龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-271",
+      "dinosaur_id": "DINO-071",
+      "genus": "Maiasaura",
+      "dimension": "产地与分布",
+      "title": "慈母龙｜化石产地",
+      "content": "慈母龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-272",
+      "dinosaur_id": "DINO-072",
+      "genus": "Saurolophus",
+      "dimension": "产地与分布",
+      "title": "栉龙｜化石产地",
+      "content": "栉龙在本次选用来源中的发现地区为加拿大、蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-273",
+      "dinosaur_id": "DINO-073",
+      "genus": "Hypacrosaurus",
+      "dimension": "产地与分布",
+      "title": "亚冠龙｜化石产地",
+      "content": "亚冠龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-274",
+      "dinosaur_id": "DINO-074",
+      "genus": "Tsintaosaurus",
+      "dimension": "产地与分布",
+      "title": "青岛龙｜化石产地",
+      "content": "青岛龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-275",
+      "dinosaur_id": "DINO-075",
+      "genus": "Sauropelta",
+      "dimension": "产地与分布",
+      "title": "蜥结龙｜化石产地",
+      "content": "蜥结龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-276",
+      "dinosaur_id": "DINO-076",
+      "genus": "Nodosaurus",
+      "dimension": "产地与分布",
+      "title": "结节龙｜化石产地",
+      "content": "结节龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-277",
+      "dinosaur_id": "DINO-077",
+      "genus": "Edmontonia",
+      "dimension": "产地与分布",
+      "title": "埃德蒙顿甲龙｜化石产地",
+      "content": "埃德蒙顿甲龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-278",
+      "dinosaur_id": "DINO-078",
+      "genus": "Polacanthus",
+      "dimension": "产地与分布",
+      "title": "多刺甲龙｜化石产地",
+      "content": "多刺甲龙在本次选用来源中的发现地区为英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-279",
+      "dinosaur_id": "DINO-079",
+      "genus": "Hylaeosaurus",
+      "dimension": "产地与分布",
+      "title": "林龙｜化石产地",
+      "content": "林龙在本次选用来源中的发现地区为英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-280",
+      "dinosaur_id": "DINO-080",
+      "genus": "Gastonia",
+      "dimension": "产地与分布",
+      "title": "加斯顿龙｜化石产地",
+      "content": "加斯顿龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-281",
+      "dinosaur_id": "DINO-081",
+      "genus": "Minmi",
+      "dimension": "产地与分布",
+      "title": "敏迷龙｜化石产地",
+      "content": "敏迷龙在本次选用来源中的发现地区为澳大利亚。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/minmi.html"
+      ],
+      "status": "来源已读，附口径或争议提示",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-282",
+      "dinosaur_id": "DINO-082",
+      "genus": "Saichania",
+      "dimension": "产地与分布",
+      "title": "美甲龙｜化石产地",
+      "content": "美甲龙在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/saichania.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-283",
+      "dinosaur_id": "DINO-083",
+      "genus": "Pinacosaurus",
+      "dimension": "产地与分布",
+      "title": "绘龙｜化石产地",
+      "content": "绘龙在本次选用来源中的发现地区为中国、蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-284",
+      "dinosaur_id": "DINO-084",
+      "genus": "Tarchia",
+      "dimension": "产地与分布",
+      "title": "多智龙｜化石产地",
+      "content": "多智龙在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-285",
+      "dinosaur_id": "DINO-085",
+      "genus": "Kentrosaurus",
+      "dimension": "产地与分布",
+      "title": "钉状龙｜化石产地",
+      "content": "钉状龙在本次选用来源中的发现地区为坦桑尼亚。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-286",
+      "dinosaur_id": "DINO-086",
+      "genus": "Huayangosaurus",
+      "dimension": "产地与分布",
+      "title": "华阳龙｜化石产地",
+      "content": "华阳龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-287",
+      "dinosaur_id": "DINO-087",
+      "genus": "Tuojiangosaurus",
+      "dimension": "产地与分布",
+      "title": "沱江龙｜化石产地",
+      "content": "沱江龙在本次选用来源中的发现地区为中国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-288",
+      "dinosaur_id": "DINO-088",
+      "genus": "Dacentrurus",
+      "dimension": "产地与分布",
+      "title": "锐龙｜化石产地",
+      "content": "锐龙在本次选用来源中的发现地区为法国、葡萄牙、英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-289",
+      "dinosaur_id": "DINO-089",
+      "genus": "Hypsilophodon",
+      "dimension": "产地与分布",
+      "title": "棱齿龙｜化石产地",
+      "content": "棱齿龙在本次选用来源中的发现地区为英国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-290",
+      "dinosaur_id": "DINO-090",
+      "genus": "Ouranosaurus",
+      "dimension": "产地与分布",
+      "title": "豪勇龙｜化石产地",
+      "content": "豪勇龙在本次选用来源中的发现地区为尼日尔。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-291",
+      "dinosaur_id": "DINO-091",
+      "genus": "Tenontosaurus",
+      "dimension": "产地与分布",
+      "title": "腱龙｜化石产地",
+      "content": "腱龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-292",
+      "dinosaur_id": "DINO-092",
+      "genus": "Camptosaurus",
+      "dimension": "产地与分布",
+      "title": "弯龙｜化石产地",
+      "content": "弯龙在本次选用来源中的发现地区为英国、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-293",
+      "dinosaur_id": "DINO-093",
+      "genus": "Muttaburrasaurus",
+      "dimension": "产地与分布",
+      "title": "木他龙｜化石产地",
+      "content": "木他龙在本次选用来源中的发现地区为澳大利亚。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-294",
+      "dinosaur_id": "DINO-094",
+      "genus": "Thescelosaurus",
+      "dimension": "产地与分布",
+      "title": "奇异龙｜化石产地",
+      "content": "奇异龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-295",
+      "dinosaur_id": "DINO-095",
+      "genus": "Parksosaurus",
+      "dimension": "产地与分布",
+      "title": "帕克氏龙｜化石产地",
+      "content": "帕克氏龙在本次选用来源中的发现地区为加拿大。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-296",
+      "dinosaur_id": "DINO-096",
+      "genus": "Stegoceras",
+      "dimension": "产地与分布",
+      "title": "剑角龙｜化石产地",
+      "content": "剑角龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-297",
+      "dinosaur_id": "DINO-097",
+      "genus": "Velociraptor",
+      "dimension": "产地与分布",
+      "title": "迅猛龙（伶盗龙）｜化石产地",
+      "content": "迅猛龙（伶盗龙）在本次选用来源中的发现地区为蒙古国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-298",
+      "dinosaur_id": "DINO-098",
+      "genus": "Ankylosaurus",
+      "dimension": "产地与分布",
+      "title": "甲龙｜化石产地",
+      "content": "甲龙在本次选用来源中的发现地区为加拿大、美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-299",
+      "dinosaur_id": "DINO-099",
+      "genus": "Brachiosaurus",
+      "dimension": "产地与分布",
+      "title": "腕龙｜化石产地",
+      "content": "腕龙在本次选用来源中的发现地区为美国。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    },
+    {
+      "id": "FACT-300",
+      "dinosaur_id": "DINO-100",
+      "genus": "Carnotaurus",
+      "dimension": "产地与分布",
+      "title": "牛龙（食肉牛龙）｜化石产地",
+      "content": "牛龙（食肉牛龙）在本次选用来源中的发现地区为阿根廷。这些是现代地理名称下的化石记录；不代表完整栖息范围，也不是对当时大陆边界的复原。应通过地层与标本信息进一步核对其是否与其他恐龙真正共时、共地。",
+      "source_urls": [
+        "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes"
+      ],
+      "status": "来源已读，科普参考值",
+      "checked_at": "2026-10-18"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "genus": "Tyrannosaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:UCMP_Trex_mount.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/UCMP_Trex_mount.JPG/1280px-UCMP_Trex_mount.JPG",
+    "kind": "骨架装架／模型照片",
+    "author": "EncycloPetey",
+    "license": "CC BY-SA 3.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Velociraptor",
+    "page": "https://commons.wikimedia.org/wiki/File:Velociraptor_fruita_1_(white_background).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Velociraptor_fruita_1_%28white_background%29.png/3840px-Velociraptor_fruita_1_%28white_background%29.png",
+    "kind": "骨架装架／模型照片",
+    "author": "Jens Lallensack",
+    "license": "CC BY-SA 4.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Carnotaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:Carnotaurus_Los_Angeles_County_Museum_19.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Carnotaurus_Los_Angeles_County_Museum_19.jpg",
+    "kind": "骨架装架／模型照片",
+    "author": "Jens Lallensack",
+    "license": "CC BY-SA 4.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Triceratops",
+    "page": "https://commons.wikimedia.org/wiki/File:Triceratops_mount.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Triceratops_mount.jpg/960px-Triceratops_mount.jpg?_=20221104223116",
+    "kind": "骨架装架／模型照片",
+    "author": "Allie_Caulfield",
+    "license": "CC BY 2.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Stegosaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:Stegosaurus_Skeleton_(36329568742).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stegosaurus_Skeleton_%2836329568742%29.jpg",
+    "kind": "骨架装架／模型照片",
+    "author": "Gary Todd",
+    "license": "CC0 1.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Ankylosaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:Ankylosaurus_Skeleton_(31478253461).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ankylosaurus_Skeleton_%2831478253461%29.jpg",
+    "kind": "骨架装架／模型照片",
+    "author": "Gary Todd",
+    "license": "CC0 1.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Brachiosaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:Brachiosaurus_NT_new.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Brachiosaurus_NT_new.jpg",
+    "kind": "艺术复原图",
+    "author": "Nobu Tamura",
+    "license": "CC BY-SA 4.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  },
+  {
+    "genus": "Spinosaurus",
+    "page": "https://commons.wikimedia.org/wiki/File:Spinosaurus_life_restoration_based_on_fossil_reconstruction.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Spinosaurus_life_restoration_based_on_fossil_reconstruction.png/3840px-Spinosaurus_life_restoration_based_on_fossil_reconstruction.png",
+    "kind": "艺术复原图",
+    "author": "Brondon Bobah",
+    "license": "CC BY 4.0",
+    "checked_at": "2026-10-18",
+    "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+  }
+]

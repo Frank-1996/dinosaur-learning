@@ -1,0 +1,5293 @@
+{
+  "title": "恐龙学习资料库",
+  "updated_at": "2026-10-18",
+  "counting_rules": "100个不同属级条目；300张知识卡=100张年代卡+100张规格卡+100张产地卡，是同一批恐龙资料按学习维度组织，不是额外300种恐龙，也不将Markdown、JSON及索引重复相加。",
+  "counts": {
+    "dinosaurs": 100,
+    "knowledge_cards": 300,
+    "featured_profiles": 8,
+    "licensed_image_links": 8
+  },
+  "records": [
+    {
+      "id": "DINO-001",
+      "name_zh": "霸王龙（暴龙属）",
+      "genus": "Tyrannosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        68,
+        66
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 12,
+      "mass_reference_kg": 7000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "霸王龙（暴龙属）的属名释义为'tyrant lizard'。本条用晚白垩世、大型兽脚类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "粗壮颅骨、强健后肢和短小的两指前肢，是辨认霸王龙的主要线索。",
+        "化石咬痕及粪化石中的骨片支持其能处理骨头；捕食与食腐并不互斥。",
+        "前肢用途及是否群猎仍存在争论；不同个体的最大体重估计不能当作全体平均值。",
+        "T. rex 指种，Tyrannosaurus 指属；本目录按属计数，霸王龙与暴龙不会重复算两条。"
+      ],
+      "image": {
+        "genus": "Tyrannosaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:UCMP_Trex_mount.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/UCMP_Trex_mount.JPG/1280px-UCMP_Trex_mount.JPG",
+        "kind": "骨架装架／模型照片",
+        "author": "EncycloPetey",
+        "license": "CC BY-SA 3.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tyrannosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tyrannosaurus.html",
+        "type": "large theropod",
+        "length": 12,
+        "weight": "7000",
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 68–66 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'tyrant lizard'"
+      }
+    },
+    {
+      "id": "DINO-002",
+      "name_zh": "棘龙",
+      "genus": "Spinosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        99,
+        94
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 14,
+      "mass_reference_kg": 7400,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "埃及",
+        "摩洛哥"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "棘龙的属名释义为'spine lizard'。本条用晚白垩世、大型兽脚类与埃及、摩洛哥的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "长吻、圆锥状牙齿、背部高棘与适应水边生活的身体结构，是认识棘龙的重点。",
+        "鱼类是重要食物线索；不能仅凭圆锥牙齿就断言它只吃鱼。",
+        "后肢比例和尾部的新材料改变了复原；主动潜水追猎还是以岸边活动为主，仍有争论。",
+        "棘龙与霸王龙的体长、体重应分别比较，最长并不等于最重；两者生活地区和年代也不同。"
+      ],
+      "image": {
+        "genus": "Spinosaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:Spinosaurus_life_restoration_based_on_fossil_reconstruction.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Spinosaurus_life_restoration_based_on_fossil_reconstruction.png/3840px-Spinosaurus_life_restoration_based_on_fossil_reconstruction.png",
+        "kind": "艺术复原图",
+        "author": "Brondon Bobah",
+        "license": "CC BY 4.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Spinosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/spinosaurus.html",
+        "type": "large theropod",
+        "length": 14,
+        "weight": "7400",
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 99–94 million years ago",
+        "countries": [
+          "Egypt",
+          "Morocco"
+        ],
+        "taxonomy": null,
+        "meaning": "'spine lizard'"
+      }
+    },
+    {
+      "id": "DINO-003",
+      "name_zh": "三角龙",
+      "genus": "Triceratops",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        68,
+        66
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": 10000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "三角龙的属名释义为'three-horned face'。本条用晚白垩世、角龙类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "眉上两角、鼻上一角、大型颈盾与喙是三角龙的典型组合。",
+        "角和颈盾有防御、展示及同类互动的可能作用；不能将所有伤痕都解释成霸王龙攻击。",
+        "部分愈合角伤与咬痕提供了遭遇大型捕食者后仍存活的证据。",
+        "本目录9米为博物馆参考值，10吨为该目录估算；幼体和不同种的角形不能简单等同。"
+      ],
+      "image": {
+        "genus": "Triceratops",
+        "page": "https://commons.wikimedia.org/wiki/File:Triceratops_mount.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Triceratops_mount.jpg/960px-Triceratops_mount.jpg?_=20221104223116",
+        "kind": "骨架装架／模型照片",
+        "author": "Allie_Caulfield",
+        "license": "CC BY 2.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Triceratops",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html",
+        "type": "ceratopsian",
+        "length": 9,
+        "weight": "10000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 68–66 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'three-horned face'"
+      }
+    },
+    {
+      "id": "DINO-004",
+      "name_zh": "剑龙",
+      "genus": "Stegosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        152,
+        145
+      ],
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "剑龙的属名释义为'roof lizard'。本条用晚侏罗世、装甲类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "沿背部排列的骨板和尾端长刺，比“小头”更适合作为剑龙的辨识特征。",
+        "背板属于皮内成骨，不是直接从每一节椎骨长出来的骨刺；化石埋藏常使骨板与躯体分离。",
+        "尾刺可用于防御；背板的展示、识别与体温调节等解释有不同支持程度，不能只留一种答案。",
+        "剑龙生活在晚侏罗世，霸王龙在晚白垩世；经典恐龙并不都生活在同一个时期。"
+      ],
+      "image": {
+        "genus": "Stegosaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:Stegosaurus_Skeleton_(36329568742).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Stegosaurus_Skeleton_%2836329568742%29.jpg",
+        "kind": "骨架装架／模型照片",
+        "author": "Gary Todd",
+        "license": "CC0 1.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Stegosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 9,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 152–145 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'roof lizard'"
+      }
+    },
+    {
+      "id": "DINO-005",
+      "name_zh": "梁龙",
+      "genus": "Diplodocus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        152,
+        145
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 26,
+      "mass_reference_kg": 15000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "属名与尾下方成对的骨性结构有关；不要把长尾误当作体重较大的证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Diplodocus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html",
+        "type": "sauropod",
+        "length": 26,
+        "weight": "15000",
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 152–145 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'double beam'"
+      }
+    },
+    {
+      "id": "DINO-006",
+      "name_zh": "腔骨龙",
+      "genus": "Coelophysis",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚三叠世",
+      "period_id": "late-triassic",
+      "age_label": "晚三叠世",
+      "age_numeric_reference_ma": null,
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 2,
+      "mass_reference_kg": 27,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "南非",
+        "美国",
+        "津巴布韦"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "过去关于腹腔中“同类幼体”的食同类解释曾被重新检验，部分骨骼实际来自小型鳄类。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Coelophysis",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html",
+        "type": "small theropod",
+        "length": 2,
+        "weight": "27",
+        "diet": "carnivorous",
+        "when": "Late Triassic , 225–190 million years ago",
+        "countries": [
+          "South Africa",
+          "USA",
+          "Zimbabwe"
+        ],
+        "taxonomy": null,
+        "meaning": "'hollow form'"
+      }
+    },
+    {
+      "id": "DINO-007",
+      "name_zh": "禽龙",
+      "genus": "Iguanodon",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 10,
+      "mass_reference_kg": 4000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "比利时",
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "拇指尖刺与可双足或四足活动的身体结构，是学习禽龙的重要切入点。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Iguanodon",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/iguanodon.html",
+        "type": "large ornithopod",
+        "length": 10,
+        "weight": "4000",
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 140–110 million years ago",
+        "countries": [
+          "Belgium",
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+        "meaning": "'iguana tooth'"
+      }
+    },
+    {
+      "id": "DINO-008",
+      "name_zh": "副栉龙",
+      "genus": "Parasaurolophus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        77,
+        73
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": 5000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "管状延长头冠十分醒目；头冠不是潜水时露出水面的“呼吸管”。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Parasaurolophus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parasaurolophus.html",
+        "type": "large ornithopod",
+        "length": 9,
+        "weight": "5000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 77–73 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'like 'Saurolophus''"
+      }
+    },
+    {
+      "id": "DINO-009",
+      "name_zh": "肿头龙",
+      "genus": "Pachycephalosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        69,
+        66
+      ],
+      "group": "肿头龙类",
+      "group_id": "pachycephalosaurs",
+      "diet": "植食",
+      "length_reference_m": 3,
+      "mass_reference_kg": 450,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "厚实穹隆状颅顶与头周骨性突起是重点；撞头和展示解释需要分开。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Pachycephalosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachycephalosaurus.html",
+        "type": "pachycephalosaur",
+        "length": 3,
+        "weight": "450",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 69–66 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'thick-headed lizard'"
+      }
+    },
+    {
+      "id": "DINO-010",
+      "name_zh": "恐爪龙",
+      "genus": "Deinonychus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        115,
+        108
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 3.4,
+      "mass_reference_kg": 100,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "第二趾大爪与较僵硬的尾部帮助辨认，也提示其与迅猛龙的亲缘关系。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Deinonychus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/deinonychus.html",
+        "type": "small theropod",
+        "length": 3.4,
+        "weight": "100",
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 115–108 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'terrible claw'"
+      }
+    },
+    {
+      "id": "DINO-011",
+      "name_zh": "埃雷拉龙",
+      "genus": "Herrerasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚三叠世",
+      "period_id": "late-triassic",
+      "age_label": "晚三叠世",
+      "age_numeric_reference_ma": [
+        228,
+        228
+      ],
+      "group": "早期恐龙与蜥脚形类",
+      "group_id": "early-dinosaurs",
+      "diet": "肉食",
+      "length_reference_m": 3,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "埃雷拉龙的属名释义为'Herrera's lizard'。本条用晚三叠世、早期恐龙与阿根廷的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Herrerasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/herrerasaurus.html",
+        "type": "early dinosaur",
+        "length": 3,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Triassic , 228 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Herrerasauridae",
+        "meaning": "'Herrera's lizard'"
+      }
+    },
+    {
+      "id": "DINO-012",
+      "name_zh": "始盗龙",
+      "genus": "Eoraptor",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚三叠世",
+      "period_id": "late-triassic",
+      "age_label": "晚三叠世",
+      "age_numeric_reference_ma": [
+        228,
+        228
+      ],
+      "group": "早期恐龙与蜥脚形类",
+      "group_id": "early-dinosaurs",
+      "diet": "肉食",
+      "length_reference_m": 1.7,
+      "mass_reference_kg": 10,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "始盗龙的属名释义为'early plunderer'。本条用晚三叠世、小型兽脚类与阿根廷的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "NHM旧目录将始盗龙列作小型兽脚类；本库采用中性的早期恐龙学习分组，不把旧分类当作最新共识。"
+      ],
+      "source_snapshot": {
+        "genus": "Eoraptor",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/eoraptor.html",
+        "type": "small theropod",
+        "length": 1.7,
+        "weight": "10",
+        "diet": "carnivorous",
+        "when": "Late Triassic , 228 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda",
+        "meaning": "'early plunderer'"
+      }
+    },
+    {
+      "id": "DINO-013",
+      "name_zh": "板龙",
+      "genus": "Plateosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚三叠世",
+      "period_id": "late-triassic",
+      "age_label": "晚三叠世",
+      "age_numeric_reference_ma": [
+        210,
+        210
+      ],
+      "group": "早期恐龙与蜥脚形类",
+      "group_id": "early-dinosaurs",
+      "diet": "植食",
+      "length_reference_m": 7,
+      "mass_reference_kg": 4000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "法国",
+        "德国",
+        "瑞士"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "手部拇指爪及不同年龄骨架材料，可用于讨论早期蜥脚形类的生长。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Plateosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/plateosaurus.html",
+        "type": "prosauropod",
+        "length": 7,
+        "weight": "4000",
+        "diet": "herbivorous",
+        "when": "Late Triassic , 210 million years ago",
+        "countries": [
+          "France",
+          "Germany",
+          "Switzerland"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+        "meaning": "'flat lizard'"
+      }
+    },
+    {
+      "id": "DINO-014",
+      "name_zh": "里奥哈龙",
+      "genus": "Riojasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚三叠世",
+      "period_id": "late-triassic",
+      "age_label": "晚三叠世",
+      "age_numeric_reference_ma": [
+        221,
+        210
+      ],
+      "group": "早期恐龙与蜥脚形类",
+      "group_id": "early-dinosaurs",
+      "diet": "植食或杂食",
+      "length_reference_m": 5.2,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "博物馆记录成年和幼年骨架，可用于讨论同一属内的发育变化。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Riojasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/riojasaurus.html",
+        "type": "prosauropod",
+        "length": 5.2,
+        "weight": null,
+        "diet": "herbivorous or omnivorous",
+        "when": "Late Triassic , 221–210 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Anchisauria, Melanorosauridae",
+        "meaning": "'[La] Rioja lizard'"
+      }
+    },
+    {
+      "id": "DINO-015",
+      "name_zh": "大椎龙",
+      "genus": "Massospondylus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早侏罗世",
+      "period_id": "early-jurassic",
+      "age_label": "早侏罗世（约190百万年前的卵化石证据）",
+      "age_numeric_reference_ma": null,
+      "group": "早期恐龙与蜥脚形类",
+      "group_id": "early-dinosaurs",
+      "diet": "杂食",
+      "length_reference_m": 6,
+      "mass_reference_kg": 1000,
+      "measurement_status": "NHM 2020报道的近似值",
+      "locations": [
+        "莱索托",
+        "南非",
+        "津巴布韦"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+      "additional_source_urls": [
+        "https://www.nhm.ac.uk/discover/news/2020/april/most-detailed-look-inside-worlds-oldest-dinosaur-eggs.html"
+      ],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "大椎龙的属名释义为'massive vertebrae'。本条用早侏罗世、早期蜥脚形类与莱索托、南非、津巴布韦的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。",
+        "大椎龙采用2020年博物馆研究报道约6米、约1吨与190百万年前卵化石资料，替代旧目录4米、70千克及208—204百万年前口径。"
+      ],
+      "source_snapshot": {
+        "genus": "Massospondylus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/massospondylus.html",
+        "type": "prosauropod",
+        "length": 4,
+        "weight": "70",
+        "diet": "omnivorous",
+        "when": "Early Jurassic , 208–204 million years ago",
+        "countries": [
+          "Lesotho",
+          "South Africa",
+          "Zimbabwe"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Prosauropoda, Plateosauria, Plateosauridae",
+        "meaning": "'massive vertebrae'"
+      }
+    },
+    {
+      "id": "DINO-016",
+      "name_zh": "双脊龙",
+      "genus": "Dilophosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早侏罗世",
+      "period_id": "early-jurassic",
+      "age_label": "早侏罗世",
+      "age_numeric_reference_ma": [
+        184,
+        184
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 7,
+      "mass_reference_kg": 400,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "头顶双冠有辨识价值；颈部伞状皮膜和喷毒不是已知化石支持的特征。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Dilophosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html",
+        "type": "large theropod",
+        "length": 7,
+        "weight": "400",
+        "diet": "carnivorous",
+        "when": "Early Jurassic , 184 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'two-crested lizard'"
+      }
+    },
+    {
+      "id": "DINO-017",
+      "name_zh": "冰脊龙",
+      "genus": "Cryolophosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早侏罗世",
+      "period_id": "early-jurassic",
+      "age_label": "早侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 8,
+      "mass_reference_kg": 500,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "南极洲"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+      "additional_source_urls": [
+        "https://www.fieldmuseum.org/collection-item-iconic/cryolophosaurus"
+      ],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "南极发现的具头冠兽脚类；菲尔德博物馆的模式标本编号为PR 1821。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。",
+        "目录标为早侏罗世却给出170百万年前，数字不宜直接采用；模式标本编号PR 1821可在菲尔德博物馆核对。"
+      ],
+      "source_snapshot": {
+        "genus": "Cryolophosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/cryolophosaurus.html",
+        "type": "large theropod",
+        "length": 8,
+        "weight": "500",
+        "diet": "carnivorous",
+        "when": "Early Jurassic , 170 million years ago",
+        "countries": [
+          "Antarctica"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria",
+        "meaning": "'frozen crested lizard'"
+      }
+    },
+    {
+      "id": "DINO-018",
+      "name_zh": "小盾龙",
+      "genus": "Scutellosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早侏罗世",
+      "period_id": "early-jurassic",
+      "age_label": "早侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 1.2,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "小盾龙的属名释义为'small shield lizard'。本条用早侏罗世、装甲类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Scutellosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/scutellosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 1.2,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Jurassic , 205–202 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora",
+        "meaning": "'small shield lizard'"
+      }
+    },
+    {
+      "id": "DINO-019",
+      "name_zh": "蜀龙",
+      "genus": "Shunosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "中侏罗世",
+      "period_id": "middle-jurassic",
+      "age_label": "中侏罗世",
+      "age_numeric_reference_ma": [
+        170,
+        160
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 10,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "可与同样在中国发现的马门溪龙、峨眉龙按属分别比较。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Shunosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/shunosaurus.html",
+        "type": "sauropod",
+        "length": 10,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Mid Jurassic , 170–160 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+        "meaning": "'Shuno lizard'"
+      }
+    },
+    {
+      "id": "DINO-020",
+      "name_zh": "迷惑龙",
+      "genus": "Apatosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        152,
+        145
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 21,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "莫里森组材料适合与梁龙、剑龙及同时代大型兽脚类联合阅读。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Apatosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/apatosaurus.html",
+        "type": "sauropod",
+        "length": 21,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 152–145 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'deceptive lizard'"
+      }
+    },
+    {
+      "id": "DINO-021",
+      "name_zh": "圆顶龙",
+      "genus": "Camarasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 23,
+      "mass_reference_kg": 20000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "较粗壮的匙形齿与梁龙的细长齿形成有用对照；消化机制不宜只凭牙齿下结论。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Camarasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/camarasaurus.html",
+        "type": "sauropod",
+        "length": 23,
+        "weight": "20000",
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 150–140 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Macronaria, Camarasauromorpha, Camarasauridae",
+        "meaning": "'chambered lizard'"
+      }
+    },
+    {
+      "id": "DINO-022",
+      "name_zh": "马门溪龙",
+      "genus": "Mamenchisaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        155,
+        145
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 22,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "马门溪龙的属名释义为'Mamenchi lizard'。本条用晚侏罗世、蜥脚类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Mamenchisaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html",
+        "type": "sauropod",
+        "length": 22,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 155–145 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+        "meaning": "'Mamenchi lizard'"
+      }
+    },
+    {
+      "id": "DINO-023",
+      "name_zh": "峨眉龙",
+      "genus": "Omeisaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "中侏罗世",
+      "period_id": "middle-jurassic",
+      "age_label": "中侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 20,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "峨眉龙的属名释义为'Omei lizard'。本条用中侏罗世、蜥脚类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Omeisaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/omeisaurus.html",
+        "type": "sauropod",
+        "length": 20,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Mid Jurassic , 169–159 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda",
+        "meaning": "'Omei lizard'"
+      }
+    },
+    {
+      "id": "DINO-024",
+      "name_zh": "鲸龙",
+      "genus": "Cetiosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "中侏罗世",
+      "period_id": "middle-jurassic",
+      "age_label": "中侏罗世",
+      "age_numeric_reference_ma": [
+        170,
+        160
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 18,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "鲸龙的属名释义为'whale lizard'。本条用中侏罗世、蜥脚类与英国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Cetiosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/cetiosaurus.html",
+        "type": "sauropod",
+        "length": 18,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Mid Jurassic , 170–160 million years ago",
+        "countries": [
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Cetiosauridae",
+        "meaning": "'whale lizard'"
+      }
+    },
+    {
+      "id": "DINO-025",
+      "name_zh": "阿根廷龙",
+      "genus": "Argentinosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 35,
+      "mass_reference_kg": 70000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "遗骸不完整，巨大体型依赖比例与模型推算，不宜把35米或70吨写成直接测量值。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Argentinosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html",
+        "type": "sauropod",
+        "length": 35,
+        "weight": "70000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 90 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": null,
+        "meaning": "'Argentina lizard'"
+      }
+    },
+    {
+      "id": "DINO-026",
+      "name_zh": "阿拉摩龙",
+      "genus": "Alamosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        70,
+        66
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 21,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "晚白垩世北美蜥脚类的代表，不能因为其他知名北美蜥脚类来自侏罗纪而混用年代。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Alamosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/alamosaurus.html",
+        "type": "sauropod",
+        "length": 21,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 70–66 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Macronaria, Titanosauriformes, Titanosauria, Lithostrotia",
+        "meaning": "'Alamo lizard'"
+      }
+    },
+    {
+      "id": "DINO-027",
+      "name_zh": "萨尔塔龙",
+      "genus": "Saltasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        70,
+        66
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 12,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "皮肤中的骨质结节说明部分蜥脚类也有骨甲，不能把骨甲只与甲龙联系。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Saltasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saltasaurus.html",
+        "type": "sauropod",
+        "length": 12,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 70–66 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Macronaria, Titanosauriformes, Titanosauria, Lithostrotia, Saltasauridae",
+        "meaning": "'Salta lizard'"
+      }
+    },
+    {
+      "id": "DINO-028",
+      "name_zh": "叉龙",
+      "genus": "Dicraeosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 20,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "坦桑尼亚"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "属名与椎骨的分叉结构相关，适合比较不同蜥脚类的脊柱。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Dicraeosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dicraeosaurus.html",
+        "type": "sauropod",
+        "length": 20,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 150–135 million years ago",
+        "countries": [
+          "Tanzania"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Diplodocoidea, Dicraeosauridae",
+        "meaning": "'forked lizard'"
+      }
+    },
+    {
+      "id": "DINO-029",
+      "name_zh": "长颈巨龙",
+      "genus": "Giraffatitan",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 23,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "坦桑尼亚"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "坦桑尼亚材料与北美腕龙应分别标注；老资料里的Brachiosaurus brancai是常见混淆点。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Giraffatitan",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/giraffatitan.html",
+        "type": "sauropod",
+        "length": 23,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 154–142 million years ago",
+        "countries": [
+          "Tanzania"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Macronaria, Titanosauriformes, Brachiosauridae",
+        "meaning": "'giraffe titan'"
+      }
+    },
+    {
+      "id": "DINO-030",
+      "name_zh": "尼日尔龙",
+      "genus": "Nigersaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 15,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿尔及利亚",
+        "尼日尔",
+        "突尼斯"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "部分头骨与大量头后骨骼构成研究基础；体长估值需留意不同研究的差异。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。",
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Nigersaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/nigersaurus.html",
+        "type": "sauropod",
+        "length": 15,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 121–99 million years ago",
+        "countries": [
+          "Algeria",
+          "Niger",
+          "Tunisia"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Diplodocoidea, Rebbachisauridae",
+        "meaning": "'Niger lizard'"
+      }
+    },
+    {
+      "id": "DINO-031",
+      "name_zh": "阿尔伯塔龙",
+      "genus": "Albertosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 9,
+      "mass_reference_kg": 1500,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "与霸王龙同属暴龙类，但不是霸王龙幼体；时代和颅骨特征也有区别。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Albertosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/albertosaurus.html",
+        "type": "large theropod",
+        "length": 9,
+        "weight": "1500",
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+        "meaning": "'Alberta lizard'"
+      }
+    },
+    {
+      "id": "DINO-032",
+      "name_zh": "蛇发女怪龙",
+      "genus": "Gorgosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        80,
+        73
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 8.6,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "多件较完整头骨与部分骨架使其成为比较暴龙类颅骨变化的重要材料。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Gorgosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gorgosaurus.html",
+        "type": "large theropod",
+        "length": 8.6,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 80–73 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+        "meaning": "'fierce lizard'"
+      }
+    },
+    {
+      "id": "DINO-033",
+      "name_zh": "特暴龙",
+      "genus": "Tarbosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        70
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 10,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国",
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "亚洲暴龙类的重要代表；外观近似不代表与北美霸王龙是同一种。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tarbosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tarbosaurus.html",
+        "type": "large theropod",
+        "length": 10,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 74–70 million years ago",
+        "countries": [
+          "China",
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+        "meaning": "'alarming lizard'"
+      }
+    },
+    {
+      "id": "DINO-034",
+      "name_zh": "惧龙",
+      "genus": "Daspletosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "惧龙的属名释义为'frightful lizard'。本条用晚白垩世、大型兽脚类与加拿大的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Daspletosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/daspletosaurus.html",
+        "type": "large theropod",
+        "length": 9,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+        "meaning": "'frightful lizard'"
+      }
+    },
+    {
+      "id": "DINO-035",
+      "name_zh": "冠龙",
+      "genus": "Guanlong",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        159,
+        154
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 3,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "头部冠饰与早期暴龙类演化有关；不要与鸭嘴龙类Corythosaurus的中文名混淆。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Guanlong",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/guanlong.html",
+        "type": "small theropod",
+        "length": 3,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 159–154 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Tyrannosauroidea",
+        "meaning": "'crowned dragon'"
+      }
+    },
+    {
+      "id": "DINO-036",
+      "name_zh": "羽王龙",
+      "genus": "Yutyrannus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        125,
+        125
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 7.5,
+      "mass_reference_kg": 1100,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "保存羽毛证据的大型暴龙类；羽王龙有羽毛不意味着霸王龙的所有部位都必然有羽毛。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Yutyrannus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/yutyrannus.html",
+        "type": "large theropod",
+        "length": 7.5,
+        "weight": "1100",
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 125 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": null,
+        "meaning": "'feathered tyrant'"
+      }
+    },
+    {
+      "id": "DINO-037",
+      "name_zh": "重爪龙",
+      "genus": "Baryonyx",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        125,
+        125
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 10,
+      "mass_reference_kg": 2000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "西班牙",
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "细长吻与大手爪并存，已报道的食物线索同时涉及鱼类与恐龙。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Baryonyx",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/baryonyx.html",
+        "type": "large theropod",
+        "length": 10,
+        "weight": "2000",
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 125 million years ago",
+        "countries": [
+          "Spain",
+          "United Kingdom"
+        ],
+        "taxonomy": null,
+        "meaning": "'heavy claw'"
+      }
+    },
+    {
+      "id": "DINO-038",
+      "name_zh": "似鳄龙",
+      "genus": "Suchomimus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        121,
+        112
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 11,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "尼日尔"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "与棘龙、重爪龙进行吻部和分类对照，避免只按“食鱼”把它们合并。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Suchomimus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/suchomimus.html",
+        "type": "large theropod",
+        "length": 11,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 121–112 million years ago",
+        "countries": [
+          "Niger"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Spinosauridae, Baryonychinae",
+        "meaning": "'crocodile mimic'"
+      }
+    },
+    {
+      "id": "DINO-039",
+      "name_zh": "激龙",
+      "genus": "Irritator",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 6.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "巴西"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/irritator.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "主要依据头骨认识，复原背帆不能照搬棘龙；现有骨骼没有提供同等直接证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/irritator.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Irritator",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/irritator.html",
+        "type": "large theropod",
+        "length": 6.5,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 112–99 million years ago",
+        "countries": [
+          "Brazil"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Spinosauridae, Spinosaurini",
+        "meaning": "'irritator'"
+      }
+    },
+    {
+      "id": "DINO-040",
+      "name_zh": "鲨齿龙",
+      "genus": "Carcharodontosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        99,
+        94
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 12.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿尔及利亚",
+        "埃及",
+        "摩洛哥",
+        "北非"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "属名联系到鲨鱼的学名，反映牙齿形态；它并不是鲨鱼或水生爬行动物。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Carcharodontosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/carcharodontosaurus.html",
+        "type": "large theropod",
+        "length": 12.5,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 99–94 million years ago",
+        "countries": [
+          "Algeria",
+          "Egypt",
+          "Morocco",
+          "North Africa"
+        ],
+        "taxonomy": null,
+        "meaning": "'Carcharodon lizard'"
+      }
+    },
+    {
+      "id": "DINO-041",
+      "name_zh": "南方巨兽龙",
+      "genus": "Giganotosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        100,
+        95
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 13,
+      "mass_reference_kg": 13800,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "来自南美的大型兽脚类，刀刃状锯齿牙适合与霸王龙较粗壮的牙齿比较。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Giganotosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/giganotosaurus.html",
+        "type": "large theropod",
+        "length": 13,
+        "weight": "13800",
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 100–95 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": null,
+        "meaning": "'giant southern lizard'"
+      }
+    },
+    {
+      "id": "DINO-042",
+      "name_zh": "高棘龙",
+      "genus": "Acrocanthosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        115,
+        105
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 12,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "高棘龙的属名释义为'high-spined lizard'。本条用早白垩世、大型兽脚类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Acrocanthosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/acrocanthosaurus.html",
+        "type": "large theropod",
+        "length": 12,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 115–105 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Carcharodontosauridae",
+        "meaning": "'high-spined lizard'"
+      }
+    },
+    {
+      "id": "DINO-043",
+      "name_zh": "马普龙",
+      "genus": "Mapusaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        99,
+        94
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 13,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "多只个体共同埋藏为行为研究提供线索，但骨床不能单独证明协调群猎。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Mapusaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mapusaurus.html",
+        "type": "large theropod",
+        "length": 13,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 99–94 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Allosauridae, Charcharodontosauridae, Giganotosaurinae",
+        "meaning": "'Earth (Mapuche language, Patagonia) lizard'"
+      }
+    },
+    {
+      "id": "DINO-044",
+      "name_zh": "新猎龙",
+      "genus": "Neovenator",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        127,
+        121
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 7.4,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "认识依据包括部分头骨和骨架，可与同产地植食恐龙构建地域学习专题。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Neovenator",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/neovenator.html",
+        "type": "large theropod",
+        "length": 7.4,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 127–121 million years ago",
+        "countries": [
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Carcharodontosauridae",
+        "meaning": "'new hunter'"
+      }
+    },
+    {
+      "id": "DINO-045",
+      "name_zh": "永川龙",
+      "genus": "Yangchuanosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        160,
+        144
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 10,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "永川龙的属名释义为'Yangchuan lizard'。本条用晚侏罗世、大型兽脚类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Yangchuanosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/yangchuanosaurus.html",
+        "type": "large theropod",
+        "length": 10,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 160–144 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Sinraptoridae",
+        "meaning": "'Yangchuan lizard'"
+      }
+    },
+    {
+      "id": "DINO-046",
+      "name_zh": "角鼻龙",
+      "genus": "Ceratosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        152,
+        145
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 7,
+      "mass_reference_kg": 980,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "葡萄牙",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "鼻部角状突起及背部小骨质结构很醒目，属于不同于暴龙类的兽脚类谱系。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Ceratosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ceratosaurus.html",
+        "type": "large theropod",
+        "length": 7,
+        "weight": "980",
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 152–145 million years ago",
+        "countries": [
+          "Portugal",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'horned lizard'"
+      }
+    },
+    {
+      "id": "DINO-047",
+      "name_zh": "阿贝力龙",
+      "genus": "Abelisaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        70
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "阿贝力龙的属名释义为'Abel's lizard'。本条用晚白垩世、大型兽脚类与阿根廷的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Abelisaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/abelisaurus.html",
+        "type": "large theropod",
+        "length": 9,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 74–70 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Ceratosauria, Abelisauridae, Abelisaurinae",
+        "meaning": "'Abel's lizard'"
+      }
+    },
+    {
+      "id": "DINO-048",
+      "name_zh": "玛君龙",
+      "genus": "Majungasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 6,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "马达加斯加"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "马达加斯加大型兽脚类；完整头骨与部分骨架使其可用于岛国古生态讨论。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Majungasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/majungasaurus.html",
+        "type": "large theropod",
+        "length": 6,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 84–71 million years ago",
+        "countries": [
+          "Madagascar"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Ceratosauria, Abelisauridae",
+        "meaning": "'Majunga lizard'"
+      }
+    },
+    {
+      "id": "DINO-049",
+      "name_zh": "犹他盗龙",
+      "genus": "Utahraptor",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        139,
+        135
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 5.5,
+      "mass_reference_kg": 350,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "体型比迅猛龙大得多，适合说明驰龙并不是统一大小的“电影迅猛龙”。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Utahraptor",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/utahraptor.html",
+        "type": "large theropod",
+        "length": 5.5,
+        "weight": "350",
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 139–135 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'Utah plunderer'"
+      }
+    },
+    {
+      "id": "DINO-050",
+      "name_zh": "中华龙鸟",
+      "genus": "Sinosauropteryx",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        125,
+        122
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 1.1,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "细丝状羽毛与色素研究具有重要意义；不是所有复原颜色都同样有证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Sinosauropteryx",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html",
+        "type": "small theropod",
+        "length": 1.1,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Early Cretaceous , 125–122 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": null,
+        "meaning": "'Chinese lizard wing'"
+      }
+    },
+    {
+      "id": "DINO-051",
+      "name_zh": "尾羽龙",
+      "genus": "Caudipteryx",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        125,
+        122
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "杂食",
+      "length_reference_m": 1,
+      "mass_reference_kg": 2,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "尾端扇状羽毛、胃石与较弱牙齿材料可用于讨论食性及羽毛功能。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Caudipteryx",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/caudipteryx.html",
+        "type": "small theropod",
+        "length": 1,
+        "weight": "2",
+        "diet": "omnivorous",
+        "when": "Early Cretaceous , 125–122 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caudipterygidae",
+        "meaning": "'tail feather'"
+      }
+    },
+    {
+      "id": "DINO-052",
+      "name_zh": "葬火龙",
+      "genus": "Citipati",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        81,
+        75
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "杂食",
+      "length_reference_m": 2.1,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/citipati.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "与其他偷蛋龙类分开记录，不要因为都带喙就与现代鸟类或鹦鹉嘴龙混为一类。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/citipati.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Citipati",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/citipati.html",
+        "type": "small theropod",
+        "length": 2.1,
+        "weight": null,
+        "diet": "omnivorous",
+        "when": "Late Cretaceous , 81–75 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+        "meaning": "'lord of the funeral pyre'"
+      }
+    },
+    {
+      "id": "DINO-053",
+      "name_zh": "镰刀龙",
+      "genus": "Therizinosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        70,
+        70
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "植食",
+      "length_reference_m": 10,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "巨大手爪配合植食解释，说明兽脚类并不全是肉食；全身复原依赖近缘类群比较。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Therizinosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/therizinosaurus.html",
+        "type": "large theropod",
+        "length": 10,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 70 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": null,
+        "meaning": "'scythe lizard'"
+      }
+    },
+    {
+      "id": "DINO-054",
+      "name_zh": "似鸟龙",
+      "genus": "Ornithomimus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        66
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "杂食",
+      "length_reference_m": 4,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "似鸟龙的属名释义为'bird mimic'。本条用晚白垩世、大型兽脚类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Ornithomimus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ornithomimus.html",
+        "type": "large theropod",
+        "length": 4,
+        "weight": null,
+        "diet": "omnivorous",
+        "when": "Late Cretaceous , 74–66 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Ornithomimosauria, Ornithomimidae",
+        "meaning": "'bird mimic'"
+      }
+    },
+    {
+      "id": "DINO-055",
+      "name_zh": "美颌龙",
+      "genus": "Compsognathus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": null,
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 0.7,
+      "mass_reference_kg": 3,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "法国",
+        "德国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "以小型动物为食的晚侏罗世兽脚类，体长记录可能受样本发育阶段影响。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Compsognathus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/compsognathus.html",
+        "type": "small theropod",
+        "length": 0.7,
+        "weight": "3",
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 145–140 million years ago",
+        "countries": [
+          "France",
+          "Germany"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Compsognathidae",
+        "meaning": "'pretty jaw'"
+      }
+    },
+    {
+      "id": "DINO-056",
+      "name_zh": "嗜鸟龙",
+      "genus": "Ornitholestes",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        150,
+        144
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 2,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "嗜鸟龙的属名释义为'bird robber'。本条用晚侏罗世、小型兽脚类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Ornitholestes",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ornitholestes.html",
+        "type": "small theropod",
+        "length": 2,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 150–144 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria",
+        "meaning": "'bird robber'"
+      }
+    },
+    {
+      "id": "DINO-057",
+      "name_zh": "斑比盗龙",
+      "genus": "Bambiraptor",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        84,
+        71
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 1,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "斑比盗龙的属名释义为'Bambi plunderer'。本条用晚白垩世、小型兽脚类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Bambiraptor",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/bambiraptor.html",
+        "type": "small theropod",
+        "length": 1,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 84–71 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Dromaeosauridae",
+        "meaning": "'Bambi plunderer'"
+      }
+    },
+    {
+      "id": "DINO-058",
+      "name_zh": "始祖鸟",
+      "genus": "Archaeopteryx",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        149,
+        145
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 0.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "德国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "兼具牙齿、长骨尾和羽毛等组合特征，是研究鸟类起源的重要化石。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Archaeopteryx",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html",
+        "type": "small theropod",
+        "length": 0.5,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Jurassic , 149–145 million years ago",
+        "countries": [
+          "Germany"
+        ],
+        "taxonomy": null,
+        "meaning": "'ancient wing'"
+      }
+    },
+    {
+      "id": "DINO-059",
+      "name_zh": "单爪龙",
+      "genus": "Mononykus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        81,
+        68
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "食性未定",
+      "length_reference_m": 1,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国",
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "属名与手部主要爪结构有关；博物馆目录将其食性列为未知，应保留未知。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Mononykus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/mononykus.html",
+        "type": "small theropod",
+        "length": 1,
+        "weight": null,
+        "diet": "unknown",
+        "when": "Late Cretaceous , 81–68 million years ago",
+        "countries": [
+          "China",
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Alvarezsauridae",
+        "meaning": "'single claw'"
+      }
+    },
+    {
+      "id": "DINO-060",
+      "name_zh": "戟龙",
+      "genus": "Styracosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        75
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 5.5,
+      "mass_reference_kg": 2700,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "鼻部长角和颈盾边缘长刺是识别重点，不能简单叫作“多角的三角龙”。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Styracosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/styracosaurus.html",
+        "type": "ceratopsian",
+        "length": 5.5,
+        "weight": "2700",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–75 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'spiked lizard'"
+      }
+    },
+    {
+      "id": "DINO-061",
+      "name_zh": "尖角龙",
+      "genus": "Centrosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 6,
+      "mass_reference_kg": 1000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "单个突出鼻角与颈盾装饰是辨识线索，与剑龙类的Kentrosaurus名称近似但关系不同。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Centrosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/centrosaurus.html",
+        "type": "ceratopsian",
+        "length": 6,
+        "weight": "1000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsidae, Centrosaurinae",
+        "meaning": "'sharp pointed lizard'"
+      }
+    },
+    {
+      "id": "DINO-062",
+      "name_zh": "开角龙",
+      "genus": "Chasmosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": 2500,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "长颈盾带孔，眉角和鼻角比例可帮助与其他角龙区分。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Chasmosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/chasmosaurus.html",
+        "type": "ceratopsian",
+        "length": 5,
+        "weight": "2500",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsidae, Chasmosaurinae",
+        "meaning": "'chasm lizard'"
+      }
+    },
+    {
+      "id": "DINO-063",
+      "name_zh": "原角龙",
+      "genus": "Protoceratops",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        70
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 1.8,
+      "mass_reference_kg": 400,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国",
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "著名“搏斗中的恐龙”材料与迅猛龙相关，但一个化石事件不等于完整日常行为。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Protoceratops",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/protoceratops.html",
+        "type": "ceratopsian",
+        "length": 1.8,
+        "weight": "400",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 74–70 million years ago",
+        "countries": [
+          "China",
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsia, Neoceratopsia, Coronosauria",
+        "meaning": "'first horned face'"
+      }
+    },
+    {
+      "id": "DINO-064",
+      "name_zh": "鹦鹉嘴龙",
+      "genus": "Psittacosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        120,
+        100
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 2,
+      "mass_reference_kg": 50,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国",
+        "蒙古国",
+        "俄罗斯"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "鹦鹉嘴龙的属名释义为'parrot lizard'。本条用早白垩世、角龙类与中国、蒙古国、俄罗斯的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Psittacosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/psittacosaurus.html",
+        "type": "ceratopsian",
+        "length": 2,
+        "weight": "50",
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 120–100 million years ago",
+        "countries": [
+          "China",
+          "Mongolia",
+          "Russia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsia, Psittacosauridae",
+        "meaning": "'parrot lizard'"
+      }
+    },
+    {
+      "id": "DINO-065",
+      "name_zh": "厚鼻龙",
+      "genus": "Pachyrhinosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        68
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 8,
+      "mass_reference_kg": 4000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "鼻部骨质隆起不同于三角龙的长鼻角；成幼体共同保存与群体生活研究相关。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Pachyrhinosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pachyrhinosaurus.html",
+        "type": "ceratopsian",
+        "length": 8,
+        "weight": "4000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 74–68 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": null,
+        "meaning": "'thick-nosed lizard'"
+      }
+    },
+    {
+      "id": "DINO-066",
+      "name_zh": "爱氏角龙",
+      "genus": "Avaceratops",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 2.3,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "爱氏角龙的属名释义为'Ava's horned face'。本条用晚白垩世、角龙类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Avaceratops",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/avaceratops.html",
+        "type": "ceratopsian",
+        "length": 2.3,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 80–75 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsidae, Centrosaurinae",
+        "meaning": "'Ava's horned face'"
+      }
+    },
+    {
+      "id": "DINO-067",
+      "name_zh": "弱角龙",
+      "genus": "Bagaceratops",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        85,
+        80
+      ],
+      "group": "角龙类",
+      "group_id": "ceratopsians",
+      "diet": "植食",
+      "length_reference_m": 1,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "弱角龙的属名释义为'small-horned face'。本条用晚白垩世、角龙类与蒙古国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Bagaceratops",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/bagaceratops.html",
+        "type": "ceratopsian",
+        "length": 1,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 85–80 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ceratopsia, Neoceratopsia, Bagaceratopsidae",
+        "meaning": "'small-horned face'"
+      }
+    },
+    {
+      "id": "DINO-068",
+      "name_zh": "埃德蒙顿龙",
+      "genus": "Edmontosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        66
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 13,
+      "mass_reference_kg": 3400,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "保存皮肤的木乃伊状标本提供纹理线索；纹理证据不自动等于确定颜色。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Edmontosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/edmontosaurus.html",
+        "type": "large ornithopod",
+        "length": 13,
+        "weight": "3400",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–66 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+        "meaning": "'Edmonton lizard'"
+      }
+    },
+    {
+      "id": "DINO-069",
+      "name_zh": "冠龙（冠饰鸭嘴龙）",
+      "genus": "Corythosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 10,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "冠龙（冠饰鸭嘴龙）的属名释义为'Corinthian helmet lizard'。本条用晚白垩世、大型鸟脚类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Corythosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/corythosaurus.html",
+        "type": "large ornithopod",
+        "length": 10,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Lambeosaurinae",
+        "meaning": "'Corinthian helmet lizard'"
+      }
+    },
+    {
+      "id": "DINO-070",
+      "name_zh": "赖氏龙",
+      "genus": "Lambeosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "赖氏龙的属名释义为'Lambe's lizard'。本条用晚白垩世、大型鸟脚类与加拿大的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Lambeosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/lambeosaurus.html",
+        "type": "large ornithopod",
+        "length": 9,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Lambeosaurinae",
+        "meaning": "'Lambe's lizard'"
+      }
+    },
+    {
+      "id": "DINO-071",
+      "name_zh": "慈母龙",
+      "genus": "Maiasaura",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        80,
+        75
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": 2500,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "慈母龙的属名释义为'good mother lizard'。本条用晚白垩世、大型鸟脚类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Maiasaura",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/maiasaura.html",
+        "type": "large ornithopod",
+        "length": 9,
+        "weight": "2500",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 80–75 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+        "meaning": "'good mother lizard'"
+      }
+    },
+    {
+      "id": "DINO-072",
+      "name_zh": "栉龙",
+      "genus": "Saurolophus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        70
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "栉龙的属名释义为'ridged lizard'。本条用晚白垩世、大型鸟脚类与加拿大、蒙古国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Saurolophus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saurolophus.html",
+        "type": "large ornithopod",
+        "length": 9,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 74–70 million years ago",
+        "countries": [
+          "Canada",
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+        "meaning": "'ridged lizard'"
+      }
+    },
+    {
+      "id": "DINO-073",
+      "name_zh": "亚冠龙",
+      "genus": "Hypacrosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        70,
+        70
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 9,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "从胚胎到成体的骨骼资料，是讨论生长而非只比较“最大个体”的好材料。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Hypacrosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hypacrosaurus.html",
+        "type": "large ornithopod",
+        "length": 9,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 70 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Lambeosaurinae",
+        "meaning": "'near-topmost lizard'"
+      }
+    },
+    {
+      "id": "DINO-074",
+      "name_zh": "青岛龙",
+      "genus": "Tsintaosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        84,
+        71
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 12,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "青岛龙的属名释义为'Qingdao lizard'。本条用晚白垩世、大型鸟脚类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tsintaosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tsintaosaurus.html",
+        "type": "large ornithopod",
+        "length": 12,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 84–71 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Hadrosauridae, Lambeosaurinae",
+        "meaning": "'Qingdao lizard'"
+      }
+    },
+    {
+      "id": "DINO-075",
+      "name_zh": "蜥结龙",
+      "genus": "Sauropelta",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 6.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "肩部长刺是重要外形线索；属于不同于典型尾槌甲龙的装甲谱系。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Sauropelta",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/sauropelta.html",
+        "type": "armoured dinosaur",
+        "length": 6.5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 121–94 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Nodosauridae",
+        "meaning": "'lizard shield'"
+      }
+    },
+    {
+      "id": "DINO-076",
+      "name_zh": "结节龙",
+      "genus": "Nodosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        110,
+        100
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "结节龙的属名释义为'node lizard'。本条用早白垩世、装甲类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Nodosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/nodosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 110–100 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Nodosauridae",
+        "meaning": "'node lizard'"
+      }
+    },
+    {
+      "id": "DINO-077",
+      "name_zh": "埃德蒙顿甲龙",
+      "genus": "Edmontonia",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 4,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "埃德蒙顿甲龙的属名释义为'of Edmonton'。本条用晚白垩世、装甲类与加拿大的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Edmontonia",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/edmontonia.html",
+        "type": "armoured dinosaur",
+        "length": 4,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Nodosauridae",
+        "meaning": "'of Edmonton'"
+      }
+    },
+    {
+      "id": "DINO-078",
+      "name_zh": "多刺甲龙",
+      "genus": "Polacanthus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        125,
+        125
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "多刺甲龙的属名释义为'many spines'。本条用早白垩世、装甲类与英国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Polacanthus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/polacanthus.html",
+        "type": "armoured dinosaur",
+        "length": 5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 125 million years ago",
+        "countries": [
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria",
+        "meaning": "'many spines'"
+      }
+    },
+    {
+      "id": "DINO-079",
+      "name_zh": "林龙",
+      "genus": "Hylaeosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "林龙的属名释义为'woodland lizard'。本条用早白垩世、装甲类与英国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "目录数值年龄越过分期边界，保留来源原值供核对；正文只采用分期标签，不将该数值作为精确生存范围。"
+      ],
+      "source_snapshot": {
+        "genus": "Hylaeosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hylaeosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 150–135 million years ago",
+        "countries": [
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria",
+        "meaning": "'woodland lizard'"
+      }
+    },
+    {
+      "id": "DINO-080",
+      "name_zh": "加斯顿龙",
+      "genus": "Gastonia",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        142,
+        127
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 4.6,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "有头骨及数只个体的部分骨架材料，可以区分直接保存和模型补配。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Gastonia",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/gastonia.html",
+        "type": "armoured dinosaur",
+        "length": 4.6,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 142–127 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria",
+        "meaning": "'[Robert] Gaston'"
+      }
+    },
+    {
+      "id": "DINO-081",
+      "name_zh": "敏迷龙",
+      "genus": "Minmi",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": null,
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 3,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "澳大利亚"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/minmi.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "历史归属材料与后来重新命名的标本需要逐件核对，不能把不同属标本都归为敏迷龙。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/minmi.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [
+        "旧目录可能混合不同种、旧归属或过宽时间范围；当前仅作属级学习参考，精细年代与规格需标本级复核。"
+      ],
+      "source_snapshot": {
+        "genus": "Minmi",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/minmi.html",
+        "type": "armoured dinosaur",
+        "length": 3,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 121–112 million years ago",
+        "countries": [
+          "Australia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria",
+        "meaning": "'named after Minmi Crossing, Queensland'"
+      }
+    },
+    {
+      "id": "DINO-082",
+      "name_zh": "美甲龙",
+      "genus": "Saichania",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        80,
+        80
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 6.6,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "美甲龙的属名释义为'beautiful'。本条用晚白垩世、装甲类与蒙古国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Saichania",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/saichania.html",
+        "type": "armoured dinosaur",
+        "length": 6.6,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 80 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Ankylosauridae",
+        "meaning": "'beautiful'"
+      }
+    },
+    {
+      "id": "DINO-083",
+      "name_zh": "绘龙",
+      "genus": "Pinacosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        81,
+        75
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": 1000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国",
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "幼体共同保存为群体与发育研究提供材料，不能单凭共同埋藏断言亲代照顾。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Pinacosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/pinacosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 5,
+        "weight": "1000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 81–75 million years ago",
+        "countries": [
+          "China",
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Ankylosauridae",
+        "meaning": "'plank lizard'"
+      }
+    },
+    {
+      "id": "DINO-084",
+      "name_zh": "多智龙",
+      "genus": "Tarchia",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        75,
+        70
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 5.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "尾槌损伤材料让同类竞争成为值得检验的解释，防御用途并非唯一可能。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tarchia",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tarchia.html",
+        "type": "armoured dinosaur",
+        "length": 5.5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 75–70 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": null,
+        "meaning": "'brainy one'"
+      }
+    },
+    {
+      "id": "DINO-085",
+      "name_zh": "钉状龙",
+      "genus": "Kentrosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        155,
+        150
+      ],
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "坦桑尼亚"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "钉状龙的属名释义为'spiky lizard'。本条用晚侏罗世、装甲类与坦桑尼亚的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Kentrosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/kentrosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 155–150 million years ago",
+        "countries": [
+          "Tanzania"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+        "meaning": "'spiky lizard'"
+      }
+    },
+    {
+      "id": "DINO-086",
+      "name_zh": "华阳龙",
+      "genus": "Huayangosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "中侏罗世",
+      "period_id": "middle-jurassic",
+      "age_label": "中侏罗世",
+      "age_numeric_reference_ma": [
+        170,
+        160
+      ],
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 4.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "华阳龙的属名释义为'Huayang lizard'。本条用中侏罗世、装甲类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Huayangosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/huayangosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 4.5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Mid Jurassic , 170–160 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Stegosauria, Huayangosauridae",
+        "meaning": "'Huayang lizard'"
+      }
+    },
+    {
+      "id": "DINO-087",
+      "name_zh": "沱江龙",
+      "genus": "Tuojiangosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        157,
+        154
+      ],
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 7,
+      "mass_reference_kg": 1500,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "中国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "沱江龙的属名释义为'Tuo River lizard'。本条用晚侏罗世、装甲类与中国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tuojiangosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tuojiangosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 7,
+        "weight": "1500",
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 157–154 million years ago",
+        "countries": [
+          "China"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+        "meaning": "'Tuo River lizard'"
+      }
+    },
+    {
+      "id": "DINO-088",
+      "name_zh": "锐龙",
+      "genus": "Dacentrurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        154,
+        150
+      ],
+      "group": "剑龙类与早期装甲类",
+      "group_id": "stegosaurs",
+      "diet": "植食",
+      "length_reference_m": 6,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "法国",
+        "葡萄牙",
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "属于早期被研究的剑龙类，英国产地资料可用于了解恐龙研究史。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Dacentrurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/dacentrurus.html",
+        "type": "armoured dinosaur",
+        "length": 6,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 154–150 million years ago",
+        "countries": [
+          "France",
+          "Portugal",
+          "United Kingdom"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Stegosauria, Stegosauridae",
+        "meaning": "'pointed tail'"
+      }
+    },
+    {
+      "id": "DINO-089",
+      "name_zh": "棱齿龙",
+      "genus": "Hypsilophodon",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        130,
+        125
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 2,
+      "mass_reference_kg": 20,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "适合比较小型植食鸟臀类与大型鸭嘴龙；植食并不意味着只能四足行走。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Hypsilophodon",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/hypsilophodon.html",
+        "type": "small ornithischian",
+        "length": 2,
+        "weight": "20",
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 130–125 million years ago",
+        "countries": [
+          "United Kingdom"
+        ],
+        "taxonomy": null,
+        "meaning": "'high-crested tooth'"
+      }
+    },
+    {
+      "id": "DINO-090",
+      "name_zh": "豪勇龙",
+      "genus": "Ouranosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        115,
+        100
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 7,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "尼日尔"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "豪勇龙的属名释义为'brave monitor lizard'。本条用早白垩世、大型鸟脚类与尼日尔的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Ouranosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ouranosaurus.html",
+        "type": "large ornithopod",
+        "length": 7,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 115–100 million years ago",
+        "countries": [
+          "Niger"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+        "meaning": "'brave monitor lizard'"
+      }
+    },
+    {
+      "id": "DINO-091",
+      "name_zh": "腱龙",
+      "genus": "Tenontosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        120,
+        110
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 7,
+      "mass_reference_kg": 900,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "腱龙的属名释义为'sinew lizard'。本条用早白垩世、大型鸟脚类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Tenontosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/tenontosaurus.html",
+        "type": "large ornithopod",
+        "length": 7,
+        "weight": "900",
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 120–110 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia",
+        "meaning": "'sinew lizard'"
+      }
+    },
+    {
+      "id": "DINO-092",
+      "name_zh": "弯龙",
+      "genus": "Camptosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        155,
+        145
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 5,
+      "mass_reference_kg": 1000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "英国",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "弯龙的属名释义为'bent lizard'。本条用晚侏罗世、大型鸟脚类与英国、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Camptosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/camptosaurus.html",
+        "type": "large ornithopod",
+        "length": 5,
+        "weight": "1000",
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 155–145 million years ago",
+        "countries": [
+          "United Kingdom",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia",
+        "meaning": "'bent lizard'"
+      }
+    },
+    {
+      "id": "DINO-093",
+      "name_zh": "木他龙",
+      "genus": "Muttaburrasaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "早白垩世",
+      "period_id": "early-cretaceous",
+      "age_label": "早白垩世",
+      "age_numeric_reference_ma": [
+        110,
+        100
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 7,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "澳大利亚"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "木他龙的属名释义为'Muttaburra lizard'。本条用早白垩世、大型鸟脚类与澳大利亚的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Muttaburrasaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/muttaburrasaurus.html",
+        "type": "large ornithopod",
+        "length": 7,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Early Cretaceous , 110–100 million years ago",
+        "countries": [
+          "Australia"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+        "meaning": "'Muttaburra lizard'"
+      }
+    },
+    {
+      "id": "DINO-094",
+      "name_zh": "奇异龙",
+      "genus": "Thescelosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        66
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 3.5,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "奇异龙的属名释义为'wonderful lizard'。本条用晚白垩世、小型鸟脚类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Thescelosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/thescelosaurus.html",
+        "type": "small ornithopod",
+        "length": 3.5,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–66 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda",
+        "meaning": "'wonderful lizard'"
+      }
+    },
+    {
+      "id": "DINO-095",
+      "name_zh": "帕克氏龙",
+      "genus": "Parksosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "鸟脚类及近缘小型鸟臀类",
+      "group_id": "ornithopods",
+      "diet": "植食",
+      "length_reference_m": 3,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "帕克氏龙的属名释义为'Park's lizard'。本条用晚白垩世、小型鸟脚类与加拿大的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Parksosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/parksosaurus.html",
+        "type": "small ornithopod",
+        "length": 3,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Ornithopoda, Euornithopoda",
+        "meaning": "'Park's lizard'"
+      }
+    },
+    {
+      "id": "DINO-096",
+      "name_zh": "剑角龙",
+      "genus": "Stegoceras",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        76,
+        74
+      ],
+      "group": "肿头龙类",
+      "group_id": "pachycephalosaurs",
+      "diet": "植食",
+      "length_reference_m": 2.4,
+      "mass_reference_kg": null,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "剑角龙的属名释义为'horny roof'。本条用晚白垩世、肿头龙类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [],
+      "image": null,
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Stegoceras",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/stegoceras.html",
+        "type": "pachycephalosaur",
+        "length": 2.4,
+        "weight": null,
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 76–74 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Pachycephalosauria, Pachycephalosauridae",
+        "meaning": "'horny roof'"
+      }
+    },
+    {
+      "id": "DINO-097",
+      "name_zh": "迅猛龙（伶盗龙）",
+      "genus": "Velociraptor",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        74,
+        70
+      ],
+      "group": "小型兽脚类与早期鸟类",
+      "group_id": "small-theropods",
+      "diet": "肉食",
+      "length_reference_m": 1.8,
+      "mass_reference_kg": 7,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "蒙古国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "迅猛龙（伶盗龙）的属名释义为'quick plunderer'。本条用晚白垩世、小型兽脚类与蒙古国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "小型驰龙，后足第二趾具有显著镰刀状爪，尾部帮助身体保持平衡。",
+        "电影中的“迅猛龙”明显放大了体型，外形还参考了恐爪龙；应分开记录影视形象与古生物事实。",
+        "羽毛覆盖有科学依据；羽毛存在不等于具有现代鸟类那样的飞行能力。",
+        "常见中文名迅猛龙、伶盗龙对应本条 Velociraptor；不与 Deinonychus（恐爪龙）合并。"
+      ],
+      "image": {
+        "genus": "Velociraptor",
+        "page": "https://commons.wikimedia.org/wiki/File:Velociraptor_fruita_1_(white_background).png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Velociraptor_fruita_1_%28white_background%29.png/3840px-Velociraptor_fruita_1_%28white_background%29.png",
+        "kind": "骨架装架／模型照片",
+        "author": "Jens Lallensack",
+        "license": "CC BY-SA 4.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Velociraptor",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html",
+        "type": "small theropod",
+        "length": 1.8,
+        "weight": "7",
+        "diet": "carnivorous",
+        "when": "Late Cretaceous , 74–70 million years ago",
+        "countries": [
+          "Mongolia"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Dromaeosauridae",
+        "meaning": "'quick plunderer'"
+      }
+    },
+    {
+      "id": "DINO-098",
+      "name_zh": "甲龙",
+      "genus": "Ankylosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        68,
+        66
+      ],
+      "group": "甲龙类",
+      "group_id": "ankylosaurs",
+      "diet": "植食",
+      "length_reference_m": 8,
+      "mass_reference_kg": 8000,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "加拿大",
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "甲龙的属名释义为'fused lizard'。本条用晚白垩世、装甲类与加拿大、美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "低矮而宽的躯干、皮内骨甲和尾端骨槌是甲龙的主要外形线索。",
+        "甲龙是植食动物，尾槌不是用来捕捉猎物；防御与同类竞争都值得结合证据讨论。",
+        "甲龙属的骨架并不完整，背甲排列仍存在复原不确定性，不能把装架模型当成原位完整骨架。",
+        "结节龙类等其他装甲恐龙没有同样的尾槌；“甲龙类”与“甲龙属”不是同一级别。"
+      ],
+      "image": {
+        "genus": "Ankylosaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:Ankylosaurus_Skeleton_(31478253461).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ankylosaurus_Skeleton_%2831478253461%29.jpg",
+        "kind": "骨架装架／模型照片",
+        "author": "Gary Todd",
+        "license": "CC0 1.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Ankylosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/ankylosaurus.html",
+        "type": "armoured dinosaur",
+        "length": 8,
+        "weight": "8000",
+        "diet": "herbivorous",
+        "when": "Late Cretaceous , 68–66 million years ago",
+        "countries": [
+          "Canada",
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Ornithischia, Thyreophora, Ankylosauria, Ankylosauridae",
+        "meaning": "'fused lizard'"
+      }
+    },
+    {
+      "id": "DINO-099",
+      "name_zh": "腕龙",
+      "genus": "Brachiosaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚侏罗世",
+      "period_id": "late-jurassic",
+      "age_label": "晚侏罗世",
+      "age_numeric_reference_ma": [
+        152,
+        145
+      ],
+      "group": "蜥脚类",
+      "group_id": "sauropods",
+      "diet": "植食",
+      "length_reference_m": 22,
+      "mass_reference_kg": 46900,
+      "measurement_status": "NHM科普目录参考估值；不是最新最大值或全属通用范围",
+      "locations": [
+        "美国"
+      ],
+      "source_url": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html",
+      "additional_source_urls": [],
+      "source_type": "NHM博物馆目录",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "腕龙的属名释义为'arm lizard'。本条用晚侏罗世、蜥脚类与美国的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "前肢相对后肢较长、肩部较高，是腕龙的关键比例特征，而不是单纯“脖子长”。",
+        "长颈与抬高的前躯适于较高处取食，身体结构与梁龙一类的比例不同。",
+        "北美的 Brachiosaurus 与非洲的 Giraffatitan 应分开；旧图签把长颈巨龙叫“腕龙”的情况需要注明。",
+        "本条约22米及46.9吨来自博物馆目录口径；化石不完整，模型和发育阶段都会影响估计。"
+      ],
+      "image": {
+        "genus": "Brachiosaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:Brachiosaurus_NT_new.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Brachiosaurus_NT_new.jpg",
+        "kind": "艺术复原图",
+        "author": "Nobu Tamura",
+        "license": "CC BY-SA 4.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Brachiosaurus",
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/brachiosaurus.html",
+        "type": "sauropod",
+        "length": 22,
+        "weight": "46900",
+        "diet": "herbivorous",
+        "when": "Late Jurassic , 152–145 million years ago",
+        "countries": [
+          "USA"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Macronaria, Titanosauriformes, Brachiosauridae",
+        "meaning": "'arm lizard'"
+      }
+    },
+    {
+      "id": "DINO-100",
+      "name_zh": "牛龙（食肉牛龙）",
+      "genus": "Carnotaurus",
+      "record_level": "属级学习条目（不代表一个属只有一个种）",
+      "period": "晚白垩世",
+      "period_id": "late-cretaceous",
+      "age_label": "晚白垩世",
+      "age_numeric_reference_ma": [
+        70,
+        70
+      ],
+      "group": "大型兽脚类",
+      "group_id": "large-theropods",
+      "diet": "肉食",
+      "length_reference_m": 8,
+      "mass_reference_kg": null,
+      "measurement_status": "MNHN约8—9米；用8米作索引参考点",
+      "locations": [
+        "阿根廷"
+      ],
+      "source_url": "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes",
+      "additional_source_urls": [],
+      "source_type": "MNHN博物馆科普",
+      "checked_at": "2026-10-18",
+      "verification": "已读取来源；基础规格与分期为来源口径，未逐一完成原始论文和标本级复核",
+      "summary": "牛龙（食肉牛龙）的属名释义为'meat-eating bull'。本条用晚白垩世、大型兽脚类与阿根廷的化石记录定位；不同属的相似中文译名或相近体型不构成同物种证据。",
+      "key_notes": [
+        "牛龙的眉部双角、很深而较短的头骨和极度缩短的前肢，使它与霸王龙容易区分。",
+        "属于阿贝力龙科，而霸王龙属于暴龙类；短前肢在不同兽脚类中独立出现。",
+        "法国自然史博物馆给出约8—9米的复原体长；本表用8米作目录参考点，不是完整物种范围。",
+        "头角的具体功能与奔跑性能涉及推断；不能把现代牛的行为直接移植给牛龙。"
+      ],
+      "image": {
+        "genus": "Carnotaurus",
+        "page": "https://commons.wikimedia.org/wiki/File:Carnotaurus_Los_Angeles_County_Museum_19.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Carnotaurus_Los_Angeles_County_Museum_19.jpg",
+        "kind": "骨架装架／模型照片",
+        "author": "Jens Lallensack",
+        "license": "CC BY-SA 4.0",
+        "checked_at": "2026-10-18",
+        "note": "仅外链展示，未修改原图；装架可能包含模型及补配，复原图的颜色与软组织不是已证实事实。"
+      },
+      "image_reference": {
+        "url": "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes",
+        "kind": "博物馆配图／资料入口",
+        "embedding": false,
+        "license": "页面图片未作为开放授权图片复制；具体权利依原页标注"
+      },
+      "warnings": [],
+      "source_snapshot": {
+        "genus": "Carnotaurus",
+        "url": "https://www.mnhn.fr/fr/carnotaurus-le-dinosaure-a-cornes",
+        "type": "large theropod",
+        "length": 8,
+        "weight": null,
+        "diet": "carnivorous",
+        "when": "Late Cretaceous, 70 million years ago",
+        "countries": [
+          "Argentina"
+        ],
+        "taxonomy": "Dinosauria, Saurischia, Theropoda, Ceratosauria, Abelisauridae",
+        "meaning": "'meat-eating bull'"
+      }
+    }
+  ]
+}
